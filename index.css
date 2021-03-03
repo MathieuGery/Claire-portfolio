@@ -201,14 +201,26 @@ header table {
     font-weight:bold;
 }
 #bio h1 {
+    font-size: xx-large;
     padding:5px 0px;
     border-bottom:4px solid rgb(255, 44, 90);
     width:8%;
 }
 #bio h2 {
+    font-size: xx-large;
     padding:5px 0px;
     border-bottom:4px solid rgb(255, 44, 90);
     width:8%;
+}
+#bio p {
+    padding-left: 10%;
+}
+#bio li {
+    padding-left: 10%;
+}
+#bio ul {
+    font-weight: lighter;
+    padding-left: 15%;
 }
 #contact {
     width:92vw;
