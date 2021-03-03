@@ -115,7 +115,7 @@ header table {
     padding:0px 8%;
 }
 #about h1 {
-    font-size:45px;
+    font-size:50px;
     word-wrap:break-word;
 }
 #about table {
@@ -200,15 +200,30 @@ header table {
     padding:6vh 4vw;
     font-weight:bold;
 }
+
 #bio h1 {
-    padding:5px 0px;
+    font-size: xx-large;
+    padding:15px 0px;
     border-bottom:4px solid rgb(255, 44, 90);
-    width:8%;
+    width:10%;
 }
 #bio h2 {
-    padding:5px 0px;
+    font-size: xx-large;
+    padding:15px 0px;
     border-bottom:4px solid rgb(255, 44, 90);
-    width:8%;
+    width:11%;
+}
+#bio p{
+    text-align: justify;
+    padding-left: 5%;
+}
+#bio li{
+    text-align: justify;
+    padding-left: 5%;
+}
+#bio ul{
+    padding-left: 10%;
+    font-weight: lighter;
 }
 #contact {
     width:92vw;
@@ -370,9 +385,9 @@ button:focus {
         width:90%;
     }
     #work h1 {
-        width:19%;
+        width:25%;
     }
-    #bio h1 {
+    #bio h1{
         width:25%;
     }
     #contact h1 {
