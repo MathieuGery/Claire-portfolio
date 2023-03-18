@@ -3,9 +3,9 @@ import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
-  { name: 'PROJETS', href: '#' },
-  { name: 'À PROPOS', href: '#' },
-  { name: 'CONTACT', href: '#' },
+  { name: 'PROJETS', href: '/' },
+  { name: 'À PROPOS', href: '/a_propos' },
+  { name: 'CONTACT', href: '/contact' },
 ]
 
 export default function NavBar() {
@@ -33,12 +33,12 @@ export default function NavBar() {
             </button>
           </div>
         </div>
-        <a href="#" className="-m-1.5 p-1.5">
-          <span className="sr-only">Your Company</span>
+        <a href="/" className="-m-1.5 p-1.5">
+          <span className="sr-only">Claire's Portfolio</span>
           <img className="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="" />
         </a>
         <div className="flex flex-1 justify-end">
-          <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="/" className="text-sm font-semibold leading-6 text-gray-900">
             Icones <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
@@ -57,8 +57,8 @@ export default function NavBar() {
                 <XMarkIcon className="h-6 w-6" aria-hidden="true" />
               </button>
             </div>
-            <a href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">Your Company</span>
+            <a href="/" className="-m-1.5 p-1.5">
+              <span className="sr-only">Claire's Portfolio</span>
               <img
                 className="h-8 w-auto"
                 src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
@@ -66,7 +66,7 @@ export default function NavBar() {
               />
             </a>
             <div className="flex flex-1 justify-end">
-              <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
+              <a href="/" className="text-sm font-semibold leading-6 text-gray-900">
                 Icones <span aria-hidden="true">&rarr;</span>
               </a>
             </div>

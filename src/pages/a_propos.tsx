@@ -2,11 +2,12 @@ import Head from 'next/head'
 import { Inter } from 'next/font/google'
 import NavBar from '@/components/NavBar'
 import Footer from '@/components/Footer'
-import ProjectsList from '@/components/ProjectsList'
+import HeroSection from '@/components/HeroSection'
+import Test from '@/components/Recap'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export default function Home() {
+export default function APropos() {
   return (
     <>
       <Head>
@@ -17,7 +18,8 @@ export default function Home() {
       </Head>
       <main>
         <NavBar />
-        <ProjectsList />
+        <HeroSection />
+        <Test />
       </main>
       <Footer />
     </>
