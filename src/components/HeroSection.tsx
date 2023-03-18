@@ -23,8 +23,8 @@ export default function HeroSection() {
             />
           </div>
           <figcaption className="text-base lg:col-start-1 lg:row-start-3">
-            <div className="font-semibold text-gray-900">Judith Black</div>
-            <div className="mt-1 text-gray-500">CEO of Workcation</div>
+            <div className="font-semibold text-gray-900">Claire Gery</div>
+            <div className="mt-1 text-gray-500">Ariste de ouff !!!</div>
           </figcaption>
         </figure>
       </div>

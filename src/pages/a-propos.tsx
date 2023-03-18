@@ -6,8 +6,6 @@ import HeroSection from '@/components/HeroSection'
 import Recap from '@/components/Recap'
 import SocialNetworks from '@/components/SocialNetworks'
 
-const inter = Inter({ subsets: ['latin'] })
-
 export default function APropos() {
   return (
     <>
