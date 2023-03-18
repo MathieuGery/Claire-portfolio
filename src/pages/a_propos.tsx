@@ -3,7 +3,8 @@ import { Inter } from 'next/font/google'
 import NavBar from '@/components/NavBar'
 import Footer from '@/components/Footer'
 import HeroSection from '@/components/HeroSection'
-import Test from '@/components/Recap'
+import Recap from '@/components/Recap'
+import SocialNetworks from '@/components/SocialNetworks'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -19,7 +20,8 @@ export default function APropos() {
       <main>
         <NavBar />
         <HeroSection />
-        <Test />
+        <Recap />
+        <SocialNetworks />
       </main>
       <Footer />
     </>
