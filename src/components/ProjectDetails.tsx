@@ -1,6 +1,4 @@
 import Image from "next/image"
-import { useState } from 'react'
-import { ChevronRightIcon } from '@heroicons/react/20/solid'
 
 export default function ProjectDetails(props: any) {
   return (

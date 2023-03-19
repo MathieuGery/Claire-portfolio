@@ -17,6 +17,7 @@ export default function Home() {
       </Head>
       <NavBar />
       <main>
+        <h1 className='text-center text-2xl font-extrabold'>Je suis Claire et voici mon univer !</h1>
         <ProjectsList />
       </main>
       <Footer />
