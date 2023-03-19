@@ -1,5 +1,29 @@
 import Image from "next/image"
 
+const files = [
+  {
+    source:
+      '/cat.jpg',
+  },
+  {
+    source:
+      '/cat.jpg',
+  },
+  {
+    source:
+      '/cat.jpg',
+  },
+  {
+    source:
+      '/cat.jpg',
+  },
+  {
+    source:
+      '/cat.jpg',
+  },
+  // More files...
+]
+
 export default function ProjectDetails(props: any) {
   return (
     <div className="bg-white">
@@ -22,22 +46,22 @@ export default function ProjectDetails(props: any) {
             <p className="mt-6 text-lg leading-8 text-gray-600">
               {props.project.description}
             </p>
-            <div className="mt-10 flex items-center gap-x-6">
-              <a
-                href="#"
-                className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-              >
-                Get started
-              </a>
-              <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
-                Learn more <span aria-hidden="true">→</span>
-              </a>
-            </div>
           </div>
           <div className="mt-16 sm:mt-24 lg:mt-0 lg:flex-shrink-0 lg:flex-grow flex items-center justify-center">
-            <Image src={props.project.imageSrc} width={500} height={500} alt="" />
+            <Image src={props.project.imageSrc} width={500} height={500} alt="" className="rounded-xl" />
           </div>
         </div>
+      </div>
+      <div className="px-20 pt-5">
+        <ul role="list" className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 sm:gap-x-6 lg:grid-cols-4 xl:gap-x-8">
+          {props.project.images.map((file: any) => (
+            <li key={file.source} className="relative">
+              <div className="group block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
+                <img src={file.source} alt="" className="pointer-events-none object-cover" />
+              </div>
+            </li>
+          ))}
+        </ul>
       </div>
     </div>
   )
