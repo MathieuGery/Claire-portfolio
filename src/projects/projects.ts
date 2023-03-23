@@ -5,14 +5,14 @@ export const projects = [
     href: '/project/Les fous à réaction',
     description: "Création de flyer pour la compagnie Les fous à réAction ",
     short_description: "Projet fictif",
-    imageSrc: '/cat.jpg',
+    imageSrc: '/flyer_LFAR_portrait.png',
     images: [{
       source:
-        '/cat.jpg',
+        '/flyer_LFAR_portrait.png',
     },
     {
       source:
-        '/cat.jpg',
+        '/flyer_LFAR_paysage.png',
     },],
     imageAlt: 'White fabric pouch with white zipper, black zipper pull, and black elastic loop.',
   },
