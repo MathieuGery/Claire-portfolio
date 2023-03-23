@@ -5,6 +5,7 @@ export const projects = [
     href: '/project/Les fous à réAction',
     description: "Création de flyer pour la compagnie Les fous à réAction ",
     short_description: "Projet fictif",
+    date: '10/10/2023',
     imageSrc: '/flyer_LFAR_portrait.png',
     images: [{
       source:
@@ -22,6 +23,7 @@ export const projects = [
     href: '/project/Ma grosse bite 2',
     description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
     short_description: "qjfqoefjqf jq i qiofqji",
+    date: '10/10/2023',
     imageSrc: 'https://tailwindui.com/img/ecommerce-images/category-page-07-product-02.jpg',
     images: [{
       source:
@@ -39,6 +41,7 @@ export const projects = [
     href: '/project/Medium Stuff Satchel',
     description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
     short_description: "qjfqoefjqf jq i qiofqji",
+    date: '10/10/2023',
     imageSrc: 'https://tailwindui.com/img/ecommerce-images/category-page-07-product-03.jpg',
     images: [{
       source:
@@ -57,6 +60,7 @@ export const projects = [
     href: '/project/Medium Stuff Satchel',
     description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
     short_description: "qjfqoefjqf jq i qiofqji",
+    date: '10/10/2023',
     imageSrc: 'https://tailwindui.com/img/ecommerce-images/category-page-07-product-03.jpg',
     images: [{
       source:
