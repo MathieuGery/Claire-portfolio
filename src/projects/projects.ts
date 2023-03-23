@@ -1,8 +1,8 @@
 export const projects = [
   {
     id: 1,
-    name: 'toto',
-    href: '/project/toto',
+    name: 'Les fous à réaction',
+    href: '/project/Les fous à réaction',
     description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
     short_description: "qjfqoefjqf jq i qiofqji",
     imageSrc: '/cat.jpg',
