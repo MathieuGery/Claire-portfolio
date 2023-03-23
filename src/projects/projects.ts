@@ -8,7 +8,7 @@ export const projects = [
     imageSrc: '/flyer_LFAR_portrait.png',
     images: [{
       source:
-        '/flyer_LFAR_portrait.png',
+        '/flyer_LFAR_paysage.png',
     },
     {
       source:
