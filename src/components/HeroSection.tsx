@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { a_propos } from '@/projects/a_propos'
 
 export default function HeroSection() {
   return (
@@ -8,8 +9,7 @@ export default function HeroSection() {
           <div className="relative col-span-2 lg:col-start-1 lg:row-start-2">
             <blockquote className="text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
               <p>
-                Commodo amet fugiat excepteur sunt qui ea elit cupidatat ullamco consectetur ipsum elit consequat. Elit
-                sunt proident ea nulla ad nulla dolore ad pariatur tempor non. Sint veniam minim et ea.
+               {a_propos.tagLine}
               </p>
             </blockquote>
           </div>
@@ -23,8 +23,8 @@ export default function HeroSection() {
             />
           </div>
           <figcaption className="text-base lg:col-start-1 lg:row-start-3">
-            <div className="font-semibold text-gray-900">Claire Gery</div>
-            <div className="mt-1 text-gray-500">Ariste de ouff !!!</div>
+            <div className="font-semibold text-gray-900">{a_propos.name}</div>
+            <div className="mt-1 text-gray-500">{a_propos.baseLine}</div>
           </figcaption>
         </figure>
       </div>
