@@ -1,29 +1,5 @@
 import Image from "next/image"
 
-const files = [
-  {
-    source:
-      '/cat.jpg',
-  },
-  {
-    source:
-      '/cat.jpg',
-  },
-  {
-    source:
-      '/cat.jpg',
-  },
-  {
-    source:
-      '/cat.jpg',
-  },
-  {
-    source:
-      '/cat.jpg',
-  },
-  // More files...
-]
-
 export default function ProjectDetails(props: any) {
   return (
     <div className="bg-white">
