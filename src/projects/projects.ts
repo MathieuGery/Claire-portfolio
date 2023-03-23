@@ -5,7 +5,7 @@ export const projects = [
     href: '/project/Les fous à réAction',
     description: "Création de flyer pour la compagnie Les fous à réAction ",
     short_description: "Projet fictif",
-    date: '10/10/2023',
+    date: '20/03/2023',
     imageSrc: '/LFAR_portrait.png',
     images: [{
       source:
