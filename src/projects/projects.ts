@@ -14,7 +14,7 @@ export const projects = [
       source:
         '/flyer_LFAR_paysage.png',
     },],
-    imageAlt: 'White fabric pouch with white zipper, black zipper pull, and black elastic loop.',
+    imageAlt: 'Création de flyer pour la compagnie Les fous à réAction.',
   },
   {
     id: 2,
