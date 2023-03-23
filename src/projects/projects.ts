@@ -1,10 +1,10 @@
 export const projects = [
   {
     id: 1,
-    name: 'Les fous à réaction',
+    name: 'Les fous à réAction',
     href: '/project/Les fous à réaction',
-    description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
-    short_description: "qjfqoefjqf jq i qiofqji",
+    description: "Création de flyer pour la compagnie Les fous à réAction ",
+    short_description: "Projet fictif",
     imageSrc: '/cat.jpg',
     images: [{
       source:
@@ -18,7 +18,7 @@ export const projects = [
   },
   {
     id: 2,
-    name: 'Ma grosse bite 2',
+    name: 'fftft',
     href: '/project/Ma grosse bite 2',
     description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
     short_description: "qjfqoefjqf jq i qiofqji",
