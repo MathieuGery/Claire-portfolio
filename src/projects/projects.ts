@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     name: 'Les fous à réAction',
-    href: '/project/Les fous à réaction',
+    href: '/project/Les fous à réAction',
     description: "Création de flyer pour la compagnie Les fous à réAction ",
     short_description: "Projet fictif",
     imageSrc: '/flyer_LFAR_portrait.png',
