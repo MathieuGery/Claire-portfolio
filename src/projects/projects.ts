@@ -15,7 +15,7 @@ export const projects = [
       source:
         '/flyer_LFAR_paysage.png',
     },
-            {
+    {
       source:
         '/flyer_paysage_.png',
     },],
@@ -55,18 +55,18 @@ export const projects = [
       source:
         '/GERY _Claire _Packaging_ DG3A 12.jpg',
     },
-             {
+    {
       source:
         '/GERY _Claire _Packaging_ DG3A 4.jpg',
     },
-             {
+    {
       source:
         '/GERY _Claire _Packaging_ DG3A 6.jpg',
     },
-             {
+    {
       source:
         '/GERY _Claire _Packaging_ DG3A 8.jpg',
-    }, 
+    }, {
       source:
         '/GERY _Claire _Packaging_ DG3A 9.jpg',
     },],
