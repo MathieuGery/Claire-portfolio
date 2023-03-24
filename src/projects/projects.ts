@@ -4,7 +4,7 @@ export const projects = [
     name: 'Les fous à réAction',
     href: '/project/Les fous à réAction',
     description: "Création de flyer pour la compagnie Les fous à réAction ",
-    short_description: "Projet fictif",
+    short_description: "Flyer",
     date: '20/03/2023',
     imageSrc: '/flyer_portrait_3.png',
     images: [{
@@ -66,9 +66,6 @@ export const projects = [
     {
       source:
         '/GERY _Claire _Packaging_ DG3A 8.jpg',
-    }, {
-      source:
-        '/GERY _Claire _Packaging_ DG3A 9.jpg',
     },],
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
