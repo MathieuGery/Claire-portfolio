@@ -26,10 +26,10 @@ export default function ProjectDetails(props: any) {
       <div className="px-20 pt-5">
         <ul role="list" className="grid grid-cols-2 gap-x-4 gap-y-8">
           {props.project.images.map((file: any) => (
-            <li key={file.source} className="relative">
-              <div className="group block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
-                <img src={file.source} alt="" className="pointer-events-none object-cover" />
-              </div>
+            <li key={file.source} className="flex">
+              {/* <div className="group block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100"> */}
+                <img src={file.source} alt="" className="overflow-hidden pointer-events-none object-cover rounded-lg bg-gray-100" />
+              {/* </div> */}
             </li>
           ))}
         </ul>

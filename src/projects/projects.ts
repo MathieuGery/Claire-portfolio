@@ -46,7 +46,7 @@ export const projects = [
     description: "Packaging pour Bon & Bio. Bon & bio est un fast food  ",
     short_description: "Packaging",
     date: '2/12/2022',
-    imageSrc: 'sac.png',
+    imageSrc: '/sac.png',
     images: [{
       source:
         '/GERY _Claire _Packaging_ DG3A 10.jpg',
