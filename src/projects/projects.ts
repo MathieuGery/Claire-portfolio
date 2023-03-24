@@ -23,15 +23,15 @@ export const projects = [
   },
   {
     id: 2,
-    name: 'fftft',
-    href: '/project/Ma grosse bite 2',
-    description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
-    short_description: "qjfqoefjqf jq i qiofqji",
-    date: '10/10/2023',
+    name: 'Clip',
+    href: '/project/Clip',
+    description: "Clip musical sur la musique Left Me Like Summer de Daily j.",
+    short_description: "Motion design",
+    date: '25/01/2023',
     imageSrc: 'https://tailwindui.com/img/ecommerce-images/category-page-07-product-02.jpg',
     images: [{
       source:
-        '/cat.jpg',
+        '/Clip_storyboard.jpg',
     },
     {
       source:
@@ -41,19 +41,19 @@ export const projects = [
   },
   {
     id: 3,
-    name: 'Medium Stuff Satchel',
-    href: '/project/Medium Stuff Satchel',
-    description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
-    short_description: "qjfqoefjqf jq i qiofqji",
-    date: '10/10/2023',
-    imageSrc: 'https://tailwindui.com/img/ecommerce-images/category-page-07-product-03.jpg',
+    name: 'Bon & Bio',
+    href: '/project/Bon & Bio',
+    description: "Packaging pour Bon & Bio. Bon & bio est un fast food  ",
+    short_description: "Packaging",
+    date: '2/12/2022',
+    imageSrc: 'GERY _Claire _Packaging_ DG3A 11.jpg',
     images: [{
       source:
-        '/cat.jpg',
+        '/GERY _Claire _Packaging_ DG3A 10.jpg',
     },
     {
       source:
-        '/cat.jpg',
+        '/GERY _Claire _Packaging_ DG3A 12.jpg',
     },],
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
