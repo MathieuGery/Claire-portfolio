@@ -67,7 +67,7 @@ export const projects = [
       source:
         '/GERY _Claire _Packaging_ DG3A 8.jpg',
     }, 
-             source:
+      source:
         '/GERY _Claire _Packaging_ DG3A 9.jpg',
     },],
     imageAlt:
