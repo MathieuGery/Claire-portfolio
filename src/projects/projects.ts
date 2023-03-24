@@ -6,7 +6,7 @@ export const projects = [
     description: "Création de flyer pour la compagnie Les fous à réAction ",
     short_description: "Projet fictif",
     date: '20/03/2023',
-    imageSrc: '/LFAR_portrait.png',
+    imageSrc: '/flyer_portrait_3.png',
     images: [{
       source:
         '/flyer_3.png',
