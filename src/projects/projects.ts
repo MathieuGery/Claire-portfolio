@@ -14,6 +14,10 @@ export const projects = [
     {
       source:
         '/flyer_LFAR_paysage.png',
+    },
+            {
+      source:
+        '/flyer_paysag_3.png',
     },],
     imageAlt: 'Création de flyer pour la compagnie Les fous à réAction.',
   },
