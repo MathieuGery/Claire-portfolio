@@ -63,18 +63,12 @@ export const projects = [
       source:
         '/cup.jpg',
     },
-            {
-      source:
-        '/serviette.jpg',
-    },
+     
             {
       source:
         '/cup_holder.jpg',
     },
-            {
-      source:
-        '/bon_&_bio.png',
-    },],
+      ],
      
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
