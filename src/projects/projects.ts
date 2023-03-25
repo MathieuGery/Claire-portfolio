@@ -49,11 +49,31 @@ export const projects = [
     imageSrc: '/sac.png',
     images: [{
       source:
-        '/GERY _Claire _Packaging_ DG3A 10.jpg',
+        '/boite.jpg',
     },
     {
       source:
-        '/GERY _Claire _Packaging_ DG3A 12.jpg',
+        '/boite_interieur.jpg',
+    },
+            {
+      source:
+        '/couverts.jpg',
+    },
+            {
+      source:
+        '/cup.jpg',
+    },
+            {
+      source:
+        '/serviette.jpg',
+    },
+            {
+      source:
+        '/cup_holder.jpg',
+    },
+            {
+      source:
+        '/bon_&_bio.png',
     },],
      
     imageAlt:
