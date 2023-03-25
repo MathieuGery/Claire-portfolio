@@ -43,7 +43,7 @@ export const projects = [
     id: 3,
     name: 'Bon & Bio',
     href: '/project/Bon & Bio',
-    description: "Packaging pour Bon & Bio. Bon & bio est un fast food  ",
+    description: "Packaging pour le fast food écoresponsable et healthy Bon & Bio. (Projet fictif)",
     short_description: "Packaging",
     date: '2/12/2022',
     imageSrc: '/sac.png',
