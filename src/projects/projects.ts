@@ -28,7 +28,7 @@ export const projects = [
     description: "Pochette de l'album Whatever People Say I Am, That’s What I’m Not du groupe Arctic Monkeys à la manière de Susan Kare.",
     short_description: "Remix graphique",
     date: '10/10/2022',
-    imageSrc: 'am_Plan de travail 1.jpg,
+    imageSrc: '/am_Plan de travail 1.jpg',
     images: [{
       source:
         '/mockup am face.jpg',
