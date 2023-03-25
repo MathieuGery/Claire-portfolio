@@ -54,19 +54,8 @@ export const projects = [
     {
       source:
         '/GERY _Claire _Packaging_ DG3A 12.jpg',
-    },
-    {
-      source:
-        '/GERY _Claire _Packaging_ DG3A 4.jpg',
-    },
-    {
-      source:
-        '/GERY _Claire _Packaging_ DG3A 6.jpg',
-    },
-    {
-      source:
-        '/GERY _Claire _Packaging_ DG3A 8.jpg',
     },],
+     
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
   },
