@@ -23,19 +23,19 @@ export const projects = [
   },
   {
     id: 2,
-    name: 'Clip',
-    href: '/project/Clip',
-    description: "Clip musical sur la musique Left Me Like Summer de Daily j.",
-    short_description: "Motion design",
-    date: '25/01/2023',
+    name: 'AM ft. Susan Kare',
+    href: '/project/AM ft. Susan Kare',
+    description: "Pochette de l'album Whatever People Say I Am, That’s What I’m Not du groupe Arctic Monkeys à la manière de Susan Kare.",
+    short_description: "Remix graphique",
+    date: '10/10/2022',
     imageSrc: 'https://tailwindui.com/img/ecommerce-images/category-page-07-product-02.jpg',
     images: [{
       source:
-        '/Clip_storyboard.jpg',
+        '/mockup am face.jpg',
     },
     {
       source:
-        '/cat.jpg',
+        '/mockup AM.jpg',
     },],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
   },
