@@ -17,7 +17,7 @@ export default function Home() {
       </Head>
       <NavBar />
       <main>
-        <h1 className='text-center text-2xl font-extrabold'>Je suis Claire graphiste et illustratrice, bienvenue sur mon portfolio</h1>
+        <h1 className='text-center text-2xl font-regular'>Bienvenue sur mon portfolio !</h1>
         <ProjectsList />
       </main>
       <Footer />
