@@ -133,7 +133,7 @@ export const projects = [
   {
     id: 5,
     name: 'STRT PNT',
-    href: '/STRT PNT',
+    href: '/project/STRT PNT',
     description: "Packaging STRT PNT ft. Matisse.",
     short_description: "Packaging",
     date: '20/01/2022',
