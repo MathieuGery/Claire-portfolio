@@ -194,7 +194,7 @@ export const projects = [
     description: "Couvertures de livres sur Charlotte Perriand.",
     short_description: "Édition",
     date: '20/12/2021',
-    imageSrc: '/CP_4.jpg',
+    imageSrc: '/CP_5.jpg',
     images: [{
       source:
         '/CP_2.jpg',
