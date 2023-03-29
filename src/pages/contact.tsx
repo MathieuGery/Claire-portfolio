@@ -27,14 +27,14 @@ export default function Contact() {
 
     axios({
       method: "POST",
-      url: "https://formbold.com/s/oejL4",
+      url: process.env.NEXT_PUBLIC_FORM_BOLD_URL,
       data: inputs,
     })
       .then((r) => {
-        console.log("hello");
+        console.log("Message sent");
       })
       .catch((r) => {
-        console.log("error");
+        console.log("Error sending the message");
       });
   };
 
