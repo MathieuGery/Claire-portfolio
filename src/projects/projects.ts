@@ -80,7 +80,7 @@ export const projects = [
     description: "Égrappé est un caviste lillois qui propose des sélections de vin. Voici ma proposition d'affiches, flyers, sets de table et signalétique.",
     short_description: "Workshop",
     date: '11/02/2023',
-    imageSrc: 'flyer_1.jpg',
+    imageSrc: 'flyer_1_1.jpg',
     images: [{
       source:
         '/flyer_2.jpg',
