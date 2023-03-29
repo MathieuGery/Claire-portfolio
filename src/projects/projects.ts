@@ -75,19 +75,33 @@ export const projects = [
   },
   {
     id: 4,
-    name: 'Medium Stuff Satchel',
-    href: '/project/Medium Stuff Satchel',
-    description: "qiofiqjsef oqsjfeio jqseoijf qiosef ioqsfijoqsoifjqsiuefhiuq hfiuqshi fhqf hqsf hqsfh qsuhefqef hui",
-    short_description: "qjfqoefjqf jq i qiofqji",
-    date: '10/10/2023',
-    imageSrc: 'https://tailwindui.com/img/ecommerce-images/category-page-07-product-03.jpg',
+    name: 'Égrappé',
+    href: '/project/Égrappé',
+    description: "Égrappé est un caviste lillois qui propose des sélections de vin. Voici ma proposition d'affiches, flyers, sets de table et signalétique.",
+    short_description: "Workshop",
+    date: '11/02/2023',
+    imageSrc: 'flyer_1.jpg',
     images: [{
       source:
-        '/cat.jpg',
+        '/flyer_2.jpg',
     },
     {
       source:
-        '/cat.jpg',
+        '/flyer_3.jpg',
+    },
+             {
+      source:
+        '/flyer_4.jpg',
+    },
+            
+             {
+      source:
+        '/affiches.jpg',
+    },
+            
+             {
+      source:
+        '/flyer_4.jpg',
     },],
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
