@@ -6,12 +6,12 @@ export const a_propos = {
     description: "Quasi est quaerat. Sit molestiae et. Provident ad dolorem occaecati eos iste. Soluta rerum quidem minus ut molestiae velit error quod. Excepturi quidem expedita molestias quas.",
     description2: "Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat. Quasi aperiam sit non sit neque reprehenderit.",
     images: [{
-        source: "/claire.jpg"
+        source: "/flyer_portrait_3.png"
     }, {
-        source: "/claire.jpg"
+        source: "/am_Plan de travail 1.jpg"
     }, {
-        source: "/claire.jpg"
+        source: "/sac.png"
     }, {
-        source: "/claire.jpg"
+        source: "/flyer_1_1.jpg"
     },]
 }
