@@ -122,6 +122,10 @@ export const projects = [
               {
       source:
         '/papier_de_soie.jpg',
+    },
+                     {
+      source:
+        '/stop_trottoir.jpg',
     },],
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
