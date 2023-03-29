@@ -101,7 +101,27 @@ export const projects = [
             
              {
       source:
-        '/flyer_4.jpg',
+        '/set_de_tabel_egrappe-02.jpg.jpg',
+    },
+                  {
+      source:
+        '/set_de_tabel_egrappe-03.jpg',
+    },
+                  {
+      source:
+        '/set_de_tabel_egrappe-04.jpg',
+    },
+                  {
+      source:
+        '/set_de_tabel_egrappe-05.jpg',
+    },
+                  {
+      source:
+        '/signalétique_egrappe_Plan de travail 1 copie 2.jpg',
+    },
+              {
+      source:
+        '/papier_de_soie.jpg',
     },],
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
