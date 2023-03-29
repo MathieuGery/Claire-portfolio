@@ -55,20 +55,21 @@ export const projects = [
       source:
         '/boite_interieur.jpg',
     },
-    {
+            {
       source:
         '/couverts.jpg',
     },
-    {
+            {
       source:
         '/cup.jpg',
     },
-
-    {
+     
+            {
       source:
         '/cup_holder.jpg',
     },
-    ],
+      ],
+     
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
   },
@@ -88,45 +89,85 @@ export const projects = [
       source:
         '/flyer_3.jpg',
     },
-    {
+             {
       source:
         '/flyer_4.jpg',
     },
-
-    {
+            
+             {
       source:
         '/affiches.jpg',
     },
-    {
+            
+             {
       source:
-        '/set_de_tabel_egrappe-02.jpg',
+        '/set_de_tabel_egrappe-02.jpg.jpg',
     },
-    {
+                  {
       source:
         '/set_de_tabel_egrappe-03.jpg',
     },
-    {
+                  {
       source:
         '/set_de_tabel_egrappe-04.jpg',
     },
-    {
+                  {
       source:
         '/set_de_tabel_egrappe-05.jpg',
     },
-    {
+                  {
       source:
-        '/signalétique_egrappe.jpg',
+        '/signalétique_egrappe_Plan de travail 1 copie 2.jpg',
     },
-    {
+              {
       source:
         '/papier_de_soie.jpg',
     },
-    {
+                     {
       source:
         '/stop_trottoir.jpg',
     },],
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
   },
-  // More projects...
+  {
+    id: 5,
+    name: 'STRT PNT',
+    href: '/STRT PNT',
+    description: "Packaging STRT PNT ft. Matisse.",
+    short_description: "Packaging",
+    date: '20/01/2022',
+    imageSrc: '/face.png',
+    images: [{
+      source:
+        '/dos_1.png',
+    },
+    {
+      source:
+        '/BLEUFACE.png',
+    },
+            {
+      source:
+        '/rose.png',
+    },
+            {
+      source:
+        '/orangeface.png',
+    },
+            {
+      source:
+        '/jaune.png',
+    },
+            {
+      source:
+        '/rougeface.png',
+    },
+            {
+      source:
+        '/vert.png',
+    },
+         ],
+    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+  },
 ]
+// More projects...
