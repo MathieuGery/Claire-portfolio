@@ -69,7 +69,6 @@ export const projects = [
         '/cup_holder.jpg',
     },
     ],
-
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
   },
@@ -98,7 +97,6 @@ export const projects = [
       source:
         '/affiches.jpg',
     },
-
     {
       source:
         '/set_de_tabel_egrappe-02.jpg.jpg',
