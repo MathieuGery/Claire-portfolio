@@ -99,7 +99,7 @@ export const projects = [
     },
     {
       source:
-        '/set_de_tabel_egrappe-02.jpg.jpg',
+        '/set_de_tabel_egrappe-02.jpg',
     },
     {
       source:
