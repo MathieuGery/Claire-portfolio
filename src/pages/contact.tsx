@@ -3,7 +3,7 @@ import axios from 'axios'
 import React, { useState } from "react";
 import NavBar from '@/components/NavBar'
 import Footer from '@/components/Footer'
-import { BuildingOffice2Icon, EnvelopeIcon, PhoneIcon } from '@heroicons/react/24/outline'
+import { EnvelopeIcon, PhoneIcon } from '@heroicons/react/24/outline'
 
 export default function Contact() {
   // Input Change Handling
@@ -63,11 +63,6 @@ export default function Contact() {
                       <span className="sr-only">Telephone</span>
                       <PhoneIcon className="h-7 w-6 text-gray-400" aria-hidden="true" />
                     </dt>
-                    <dd>
-                      <a className="hover:text-gray-900" href="tel:+1 (555) 234-5678">
-                        +1 (555) 234-5678
-                      </a>
-                    </dd>
                   </div>
                   <div className="flex gap-x-4">
                     <dt className="flex-none">
