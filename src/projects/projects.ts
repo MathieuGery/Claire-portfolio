@@ -55,21 +55,21 @@ export const projects = [
       source:
         '/boite_interieur.jpg',
     },
-            {
+    {
       source:
         '/couverts.jpg',
     },
-            {
+    {
       source:
         '/cup.jpg',
     },
-     
-            {
+
+    {
       source:
         '/cup_holder.jpg',
     },
-      ],
-     
+    ],
+
     imageAlt:
       'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
   },
@@ -89,41 +89,41 @@ export const projects = [
       source:
         '/flyer_3.jpg',
     },
-             {
+    {
       source:
         '/flyer_4.jpg',
     },
-            
-             {
+
+    {
       source:
         '/affiches.jpg',
     },
-            
-             {
+
+    {
       source:
         '/set_de_tabel_egrappe-02.jpg.jpg',
     },
-                  {
+    {
       source:
         '/set_de_tabel_egrappe-03.jpg',
     },
-                  {
+    {
       source:
         '/set_de_tabel_egrappe-04.jpg',
     },
-                  {
+    {
       source:
         '/set_de_tabel_egrappe-05.jpg',
     },
-                  {
+    {
       source:
-        '/signalétique_egrappe_Plan de travail 1 copie 2.jpg',
+        '/signalétique_egrappe.jpg',
     },
-              {
+    {
       source:
         '/papier_de_soie.jpg',
     },
-                     {
+    {
       source:
         '/stop_trottoir.jpg',
     },],

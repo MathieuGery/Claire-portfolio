@@ -19,7 +19,7 @@ export default function ProjectDetails(props: any) {
             </p>
           </div>
           <div className="mt-16 sm:mt-24 lg:mt-0 lg:flex-shrink-0 lg:flex-grow flex items-center justify-center">
-            <Image src={props.project.imageSrc} width={500} height={500} alt="" className="rounded-xl" />
+            <Image src={props.project.imageSrc} width={500} height={500} alt="" placeholder="blur" className="rounded-xl" />
           </div>
         </div>
       </div>
