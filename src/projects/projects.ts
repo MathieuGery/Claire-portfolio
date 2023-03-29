@@ -187,5 +187,23 @@ export const projects = [
     },],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
   },
+   {
+    id: 7,
+    name: 'Charlotte Perriand',
+    href: '/project/Charlotte Perriand',
+    description: "Couvertures de livres sur Charlotte Perriand.",
+    short_description: "Édition",
+    date: '20/12/2021',
+    imageSrc: '/CP_4.jpg',
+    images: [{
+      source:
+        '/CP_2.jpg',
+    },
+    {
+      source:
+        '/CP_1.jpg',
+    },],
+    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+  },
 ]
 // More projects...
