@@ -209,13 +209,13 @@ export const projects = [
     id: 8,
     name: 'Invention du moderne',
     href: '/project/Invention du moderne',
-    description: "Affiches pour l'exposition "L'invention du moderne. ",
+    description: "Affiches pour l'exposition L'invention du moderne."",
     short_description: "Édition",
     date: '20/04/2022',
-    imageSrc: '/Ligare_4.jpg',
+    imageSrc: '/FC_2.jpg',
     images: [{
       source:
-        '/Ligare_2.jpg',
+        '/FC_3.jpg',
     },
     {
       source:
