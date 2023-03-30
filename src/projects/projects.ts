@@ -219,7 +219,7 @@ export const projects = [
     },
     {
       source:
-        '/Ligare_3.jpg',
+        '/FC_1.jpg',
     },],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
   },
