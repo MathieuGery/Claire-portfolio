@@ -223,5 +223,31 @@ export const projects = [
     },],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
   },
+  {
+    id: 9,
+    name: 'Mainsquare',
+    href: '/project/Mainsquare',
+    description: "Réalisation d'affiche pour le Mainsquare Festival. J'ai utilisé plusieurs techniques comme le photomontage, la gouache, les crayons de couleurs, les feutres à alcool ou encore l'illustration digitale ",
+    short_description: "Publicité",
+    date: '20/04/2022',
+    imageSrc: '/M1.jpg',
+    images: [{
+      source:
+        '/M1.jpg',
+    },
+    {
+      source:
+        '/M2.jpg',
+    },
+            {
+      source:
+        '/M3.jpg',
+    },
+            {
+      source:
+        '/M4.jpg',
+    },],
+    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+  },
 ]
 // More projects...
