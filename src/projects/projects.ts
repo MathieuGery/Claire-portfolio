@@ -267,5 +267,19 @@ export const projects = [
     },],
     imageAlt: 'Affiche Numerama',
   },
+  {
+    id: 12,
+    name: 'Atelier Silanie',
+    href: '/project/Atelier Silanie',
+    description: "Création de l'identité visuelle de l'atelier Silanie.",
+    short_description: "Logo",
+    date: '26/07/2022',
+    imageSrc: '/AS_1.jpg',
+    images: [{
+      source:
+        '/AS_2.jpg',
+    },],
+    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+  },
 ]
 // More projects...
