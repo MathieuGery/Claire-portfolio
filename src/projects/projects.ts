@@ -277,7 +277,7 @@ export const projects = [
     imageSrc: '/AS_1.jpg',
     images: [{
       source:
-        '/AS_2.jpg',
+        '/AS_2.png',
     },],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
   },
