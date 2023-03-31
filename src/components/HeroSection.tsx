@@ -18,7 +18,7 @@ export default function HeroSection() {
               className="rounded-full bg-indigo-50 lg:rounded-full"
               src="/claire.jpg"
               alt="me"
-              placeholder="blur"
+              // placeholder="blur"
               height={400}
               width={400}
             />

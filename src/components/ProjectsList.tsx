@@ -14,7 +14,7 @@ export default function ProjectsList() {
                   alt={product.imageAlt}
                   layout='fill'
                   objectFit='contain'
-                  placeholder="blur"
+                  // placeholder="blur"
                   className=''
                 />
               </div>
