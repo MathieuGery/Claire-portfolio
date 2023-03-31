@@ -246,6 +246,22 @@ export const projects = [
             {
       source:
         '/M4.jpg',
+    },
+            {
+    id: 10,
+    name: 'Numerama',
+    href: '/project/Numerama',
+    description: "Réalisation d'affiche pour le festival d'art numérique Numerama (projet fictif).",
+    short_description: "Publicité",
+    date: '20/12/2020',
+    imageSrc: '/Numerama-1.jpg',
+    images: [{
+      source:
+        '/Numerama-2.jpg',
+    },
+    {
+      source:
+        '/Numerama-3.jpg',
     },],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
   },
