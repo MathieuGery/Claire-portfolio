@@ -265,5 +265,5 @@ export const projects = [
     },],
     imageAlt: 'Affiche Numerama',
   },
-]
+],
 // More projects...
