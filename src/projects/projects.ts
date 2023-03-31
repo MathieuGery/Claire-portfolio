@@ -227,7 +227,7 @@ export const projects = [
     id: 9,
     name: 'Mainsquare',
     href: '/project/Mainsquare',
-    description: "Réalisation d'affiche pour le Mainsquare Festival. J'ai utilisé plusieurs techniques comme le photomontage, la gouache, les crayons de couleurs, les feutres à alcool ou encore l'illustration digitale ",
+    description: "Réalisation d'affiches pour le Mainsquare Festival. J'ai utilisé plusieurs techniques comme le photomontage, la gouache, les crayons de couleurs, les feutres à alcool ou encore l'illustration digitale ",
     short_description: "Publicité",
     date: '20/04/2022',
     imageSrc: '/rivière fini 2_Plan de travail 1.jpg',
@@ -251,7 +251,7 @@ export const projects = [
     id: 10,
     name: 'Numerama',
     href: '/project/Numerama',
-    description: "Réalisation d'affiche pour le festival d'art numérique Numerama (projet fictif).",
+    description: "Réalisation d'affiches pour le festival d'art numérique Numerama (projet fictif).",
     short_description: "Publicité",
     date: '20/12/2020',
     imageSrc: '/Numerama-1.jpg',
@@ -263,7 +263,7 @@ export const projects = [
       source:
         '/Numerama-3.jpg',
     },],
-    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+    imageAlt: 'Affiche Numerama',
   },
 ]
 // More projects...
