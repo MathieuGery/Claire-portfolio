@@ -117,7 +117,7 @@ export const projects = [
     },
     {
       source:
-        '/signalétique_egrappe_Plan de travail 1.jpg',
+        '/signalétique_egrappe.jpg',
     },
     {
       source:
