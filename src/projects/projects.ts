@@ -101,7 +101,7 @@ export const projects = [
 
     {
       source:
-        '/set_de_tabel_egrappe-02.jpg.jpg',
+        '/set_de_tabel_egrappe-02.jpg',
     },
     {
       source:
@@ -117,7 +117,7 @@ export const projects = [
     },
     {
       source:
-        '/signalétique_egrappe_Plan de travail 1 copie 2.jpg',
+        '/signalétique_egrappe_Plan de travail 1.jpg',
     },
     {
       source:
