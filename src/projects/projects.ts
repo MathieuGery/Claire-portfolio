@@ -192,6 +192,22 @@ export const projects = [
             {
       source:
         '/premiere_page.png',
+    },
+            {
+      source:
+        '/page_2.png',
+    },
+            {
+      source:
+        '/page_3.png',
+    },
+            {
+      source:
+        '/page_4.png',
+    },
+            {
+      source:
+        '/page_5.png',
     },],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
   },
