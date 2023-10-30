@@ -1,7 +1,7 @@
 const incentives = [
   {
     name: 'Instagram',
-    href: 'https://www.instagram.com/clairegxry/',
+    href: 'https://https://www.instagram.com/alaclaiirefontaine/',
     icon: (props: any) => (
       <svg
         {...props}
