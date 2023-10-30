@@ -338,7 +338,6 @@ export const projects = [
     },
             ],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
-  },
-],
+  },],
 ]
 // More projects...
