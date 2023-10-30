@@ -296,7 +296,7 @@ export const projects = [
     imageAlt: 'Affiche Numerama',
   },
   {
-    id: 12,
+    id: 11,
     name: 'Atelier Silanie',
     href: '/project/Atelier Silanie',
     description: "Création de l'identité visuelle de l'atelier Silanie.",
@@ -309,5 +309,28 @@ export const projects = [
     },],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
   },
+  {
+    id: 12,
+    name: 'Eco-design Lipton',
+    href: '/project/Eco-design Lipton',
+    description: "Re-design d'une gamme de produits Lipton, selon la charte de l'éco-design.",
+    short_description: "Packaging",
+    date: '30/10/2023',
+    imageSrc: '/gamme_1.png',
+    images: [{
+      source:
+        '/THÉ_DEVANT.png',
+    },
+            {
+      source:
+        '/THÉ-DOS.png',
+    },
+            {
+      source:
+        '/1.png',
+    },],
+    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+  },
+]
 ]
 // More projects...
