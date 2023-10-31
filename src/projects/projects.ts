@@ -339,5 +339,19 @@ export const projects = [
     ],
     imageAlt: 'Lipton',
   },
+  {
+    id: 13,
+    name: 'Oley Workshop',
+    href: '/project/Oley Workshop',
+    description: "Création de roll-ups et flyers pour la société Oley Workshop.",
+    short_description: "Logo",
+    date: '26/07/2022',
+    imageSrc: '/AS_1.jpg',
+    images: [{
+      source:
+        '/AS_2.png',
+    },],
+    imageAlt: 'Charte graphique',
+  },
 ]
 // More projects...
