@@ -316,25 +316,25 @@ export const projects = [
     description: "Re-design d'une gamme de produits Lipton, selon la charte de l'éco-design.",
     short_description: "Packaging",
     date: '30/10/2023',
-    imageSrc: '/pack.png',
+    imageSrc: '/pack-min.png',
     images: [{
       source:
-        '/THÉ_DEVANT.png',
+        '/THÉ_DEVANT-min.png',
     },
     {
       source:
-        '/THÉ-DOS.png',
+        '/THÉ-DOS-min.png',
     },
     {
       source:
-        '/1.png',
+        '/1-min.png',
     }, {
       source:
-        '/2.png',
+        '/2-min.png',
     },
     {
       source:
-        '/3.png',
+        '/3-min.png',
     },
     ],
     imageAlt: 'Lipton',
