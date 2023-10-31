@@ -37,7 +37,7 @@ export const projects = [
       source:
         '/mockup AM.jpg',
     },],
-    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+    imageAlt: 'AM ft. Susan Kare.',
   },
   {
     id: 3,
@@ -71,7 +71,7 @@ export const projects = [
     ],
 
     imageAlt:
-      'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
+      'Packaging Bon & Bio.',
   },
   {
     id: 4,
@@ -128,7 +128,7 @@ export const projects = [
         '/stop_trottoir.jpg',
     },],
     imageAlt:
-      'Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch.',
+      'Egrappe.',
   },
   {
     id: 5,
@@ -167,7 +167,7 @@ export const projects = [
         '/vert.png',
     },
     ],
-    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+    imageAlt: 'Packaging STRT PNT.',
   },
   {
     id: 6,
@@ -209,7 +209,7 @@ export const projects = [
       source:
         '/page_5.png',
     },],
-    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+    imageAlt: 'Le Fil Rouge.',
   },
   {
     id: 7,
@@ -227,7 +227,7 @@ export const projects = [
       source:
         '/CP_3.jpg',
     },],
-    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+    imageAlt: 'Charlotte Perriand.',
   },
   {
     id: 8,
@@ -245,7 +245,7 @@ export const projects = [
       source:
         '/FC_1.jpg',
     },],
-    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+    imageAlt: 'Affiche typographique.',
   },
   {
     id: 9,
@@ -307,7 +307,7 @@ export const projects = [
       source:
         '/AS_2.png',
     },],
-    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+    imageAlt: 'Charte graphique',
   },
   {
     id: 12,
@@ -316,7 +316,7 @@ export const projects = [
     description: "Re-design d'une gamme de produits Lipton, selon la charte de l'éco-design.",
     short_description: "Packaging",
     date: '30/10/2023',
-    imageSrc: '/gamme_1.png',
+    imageSrc: '/pack.png',
     images: [{
       source:
         '/THÉ_DEVANT.png',
@@ -337,7 +337,7 @@ export const projects = [
         '/3.png',
     },
     ],
-    imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
+    imageAlt: 'Lipton',
   },
 ]
 // More projects...
