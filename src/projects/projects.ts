@@ -185,27 +185,27 @@ export const projects = [
       source:
         '/Ligare_3.jpg',
     },
-             {
+    {
       source:
         '/couverture_2.png',
     },
-            {
+    {
       source:
         '/premiere_page.png',
     },
-            {
+    {
       source:
         '/page_2.png',
     },
-            {
+    {
       source:
         '/page_3.png',
     },
-            {
+    {
       source:
         '/page_4.png',
     },
-            {
+    {
       source:
         '/page_5.png',
     },],
@@ -271,8 +271,8 @@ export const projects = [
     {
       source:
         '/M4.jpg',
-    }
-            {
+    },
+    {
       source:
         '/mainsquare_carré.png',
     }],
@@ -321,23 +321,23 @@ export const projects = [
       source:
         '/THÉ_DEVANT.png',
     },
-            {
+    {
       source:
         '/THÉ-DOS.png',
     },
-            {
+    {
       source:
         '/1.png',
-    },      {
+    }, {
       source:
         '/2.png',
     },
-                {
+    {
       source:
         '/3.png',
     },
-            ],
+    ],
     imageAlt: 'Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.',
-  },],
+  },
 ]
 // More projects...
