@@ -90,7 +90,7 @@ export const projects = [
     },
               {
       source:
-        '/1_6.png',
+        '/1_4_1.png',
     },],
 
     imageAlt:
