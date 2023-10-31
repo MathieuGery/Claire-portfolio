@@ -91,9 +91,7 @@ export const projects = [
               {
       source:
         '/1_6.png',
-    },
-
-    ],
+    },],
 
     imageAlt:
       'Packaging Bon & Bio.',
