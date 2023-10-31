@@ -68,6 +68,31 @@ export const projects = [
       source:
         '/cup_holder.jpg',
     },
+              {
+      source:
+        '/1_1.png',
+    },
+              {
+      source:
+        '/1.2.png',
+    },
+              {
+      source:
+        '/1_3.png',
+    },
+              {
+      source:
+        '/1_4.png',
+    },
+              {
+      source:
+        '/1_5.png',
+    },
+              {
+      source:
+        '/1_6.png',
+    },
+
     ],
 
     imageAlt:
