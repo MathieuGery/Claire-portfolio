@@ -290,10 +290,6 @@ export const projects = [
     {
       source:
         '/M4.jpg',
-    },
-    {
-      source:
-        '/mainsquare_carré.png',
     }],
   },
   {
