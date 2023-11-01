@@ -362,13 +362,21 @@ export const projects = [
     id: 13,
     name: 'Oley Workshop',
     href: '/project/Oley Workshop',
-    description: "Création de roll-ups et flyers pour la société Oley Workshop.",
-    short_description: "Logo",
-    date: '26/07/2022',
-    imageSrc: '/AS_1.jpg',
+    description: "Création de supports de communication pour la société Oley Workshop.",
+    short_description: "Supports de communication",
+    date: '20/07/2023',
+    imageSrc: '/oley_flyers-min.png',
     images: [{
       source:
-        '/AS_2.png',
+        '/oley_kea-min.png',
+    },
+            {
+      source:
+        '/oley_prestations-min.png',
+    },
+            {
+      source:
+        '/oley_surmesure-min.png',
     },],
     imageAlt: 'Charte graphique',
   },
