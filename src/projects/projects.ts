@@ -87,10 +87,6 @@ export const projects = [
               {
       source:
         '/1_4_3.png',
-    },
-              {
-      source:
-        '/1_4_1.png',
     },],
 
     imageAlt:
