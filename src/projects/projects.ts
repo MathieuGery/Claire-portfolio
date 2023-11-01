@@ -378,7 +378,7 @@ export const projects = [
       source:
         '/oley_surmesure-min.png',
     },],
-    imageAlt: 'Charte graphique',
+    imageAlt: 'Oley workshop',
   },
 ]
 // More projects...
