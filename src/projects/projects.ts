@@ -365,7 +365,7 @@ export const projects = [
     description: "Création de supports de communication pour la société Oley Workshop.",
     short_description: "Supports de communication",
     date: '20/07/2023',
-    imageSrc: '/oley_flyers-min.png',
+    imageSrc: '/P4JQCG1.png',
     images: [{
       source:
         '/oley_kea-min.png',
@@ -380,7 +380,7 @@ export const projects = [
     },
             {
       source:
-        '/P4JQCG1.png',
+        '/oley_flyers-min.png',
     },],
     imageAlt: 'Oley workshop',
   },
