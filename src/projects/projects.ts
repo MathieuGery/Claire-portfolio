@@ -74,11 +74,11 @@ export const projects = [
     },
               {
       source:
-        '/1.2.png',
+        '/1_4_2.png',
     },
               {
       source:
-        '/1_3.png',
+        '/1_4_1.png',
     },
               {
       source:
@@ -86,7 +86,7 @@ export const projects = [
     },
               {
       source:
-        '/1_5.png',
+        '/1_4_3.png',
     },
               {
       source:
