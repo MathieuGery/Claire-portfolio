@@ -402,15 +402,15 @@ est structuré autour d’un fil chronologique.",
       source:
         '/Clausen_1-min.png',
     },
-            {
+    {
       source:
         '/Clausen_2-min.png',
     },
-            {
+    {
       source:
         '/Clausen_3-min.png',
     },
-            {
+    {
       source:
         '/Clausen_4-min.png',
     },],
