@@ -255,18 +255,18 @@ export const projects = [
     description: "Affiches pour l'exposition L'invention du moderne.",
     short_description: "Typographie",
     date: '20/04/2022',
-    imageSrc: '/Clausen_1-min.png',
+    imageSrc: '/C_1-min.png',
     images: [{
       source:
-        '/Clausen_2-min.png',
+        '/C_2-min.png',
     },
     {
       source:
-        '/Clausen_3-min.png',
+        '/C_3-min.png',
     },
             {
       source:
-        '/Clausen_4-min.png',
+        '/C_4-min.png',
     },],
     imageAlt: 'Affiche typographique.',
   },
