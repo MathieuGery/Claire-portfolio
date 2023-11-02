@@ -397,12 +397,8 @@ est structuré autour d’un fil chronologique.",
   Format : 40X60 cm",
     short_description: "Typographie",
     date: '10/01/2022',
-    imageSrc: '/AS_1.jpg',
+    imageSrc: '/Clausen_1-min.png',
     images: [{
-      source:
-        '/Clausen_1-min.png',
-    },
-    {
       source:
         '/Clausen_2-min.png',
     },
