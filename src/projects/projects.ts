@@ -68,23 +68,23 @@ export const projects = [
       source:
         '/cup_holder.jpg',
     },
-              {
+    {
       source:
         '/1_1.png',
     },
-              {
+    {
       source:
         '/1_4_2.png',
     },
-              {
+    {
       source:
         '/1_4_1.png',
     },
-              {
+    {
       source:
         '/1_4.png',
     },
-              {
+    {
       source:
         '/1_4_3.png',
     },],
@@ -264,7 +264,7 @@ export const projects = [
       source:
         '/C_3-min.png',
     },
-            {
+    {
       source:
         '/C_4-min.png',
     },],
@@ -325,7 +325,7 @@ export const projects = [
     images: [{
       source:
         '/AS_2.png',
-    },],
+    }],
     imageAlt: 'Charte graphique',
   },
   {
@@ -354,20 +354,15 @@ export const projects = [
     {
       source:
         '/3-min.png',
-    },
+    }
     ],
-    imageAlt: 'Lipton',
+    imageAlt: 'Lipton'
   },
   {
     id: 13,
     name: 'Usine Lepoutre',
     href: '/project/Usine Lepoutre',
-    description: "LE CLIENT
-En 2015, L’usine Lepoutre est rachetée par la SAS Richard Lenoir qui commercialise depuis sa mise en copropriété, après en avoir réaménagé les parties communes. Elle souhaite en faire un haut-lieu du e-commerce, dans le sillage du projet Blanchemaille by Euratechnologie.
-LA DEMANDE
-En 72h, la SAS Richard Lenoir souhaite avoir à disposition un document print afin d’accompagner la commercialisation de l’usine. Ce document doit valoriser l’aspect historique du bâtiment. Cette édition à caractère historique et patrimoniale s’appuie sur des documents iconographiques de natures et venant de sources différentes : archives familiale, archives commerciales, coupure de presse, ...
-Le texte qui parcours le fil de l’histoire de la famille Wibaux-Morin, de la fondation de la première filature de Coton à l’hôtel d’entreprises dédié au e-commerce,
-est structuré autour d’un fil chronologique.",
+    description: "LE CLIENT En 2015, L’usine Lepoutre est rachetée par la SAS Richard Lenoir qui commercialise depuis sa mise en copropriété, après en avoir réaménagé les parties communes.Elle souhaite en faire un haut- lieu du e - commerce, dans le sillage du projet Blanchemaille by Euratechnologie. LA DEMANDE En 72h, la SAS Richard Lenoir souhaite avoir à disposition un document print afin d’accompagner la commercialisation de l’usine.Ce document doit valoriser l’aspect historique du bâtiment.Cette édition à caractère historique et patrimoniale s’appuie sur des documents iconographiques de natures et venant de sources différentes : archives familiale, archives commerciales, coupure de presse, ... Le texte qui parcours le fil de l’histoire de la famille Wibaux - Morin, de la fondation de la première filature de Coton à l’hôtel d’entreprises dédié au e - commerce, est structuré autour d’un fil chronologique.",
     short_description: "Design éditorial",
     date: '30/10/2023',
     imageSrc: '/pack-min.png',
@@ -405,15 +400,15 @@ est structuré autour d’un fil chronologique.",
       source:
         '/oley_kea-min.png',
     },
-            {
+    {
       source:
         '/oley_prestations-min.png',
     },
-            {
+    {
       source:
         '/oley_surmesure-min.png',
     },
-            {
+    {
       source:
         '/oley_flyers-min.png',
     },],
