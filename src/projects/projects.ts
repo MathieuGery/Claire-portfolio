@@ -413,8 +413,7 @@ est structuré autour d’un fil chronologique.",
             {
       source:
         '/Clausen_4-min.png',
-    },
-    ],
+    },],
     imageAlt: 'Charte graphique',
   },
   {
