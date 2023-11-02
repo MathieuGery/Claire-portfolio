@@ -255,14 +255,18 @@ export const projects = [
     description: "Affiches pour l'exposition L'invention du moderne.",
     short_description: "Édition",
     date: '20/04/2022',
-    imageSrc: '/FC_2.jpg',
+    imageSrc: '/Clausen_1-min.png',
     images: [{
       source:
-        '/FC_3.jpg',
+        '/Clausen_2-min.png',
     },
     {
       source:
-        '/FC_1.jpg',
+        '/Clausen_3-min.png',
+    },
+            {
+      source:
+        '/Clausen_4-min.png',
     },],
     imageAlt: 'Affiche typographique.',
   },
@@ -389,31 +393,8 @@ est structuré autour d’un fil chronologique.",
     ],
     imageAlt: 'Lipton',
   },
-   {
-    id: 14,
-    name: 'L'invention du moderne',
-    href: '/project/L'invention du moderne',
-    description: "Réalisation d'une affiche typographie, à partir du travail d'un artiste d'un mouvement d'avant garde. 
-  Format : 40X60 cm",
-    short_description: "Typographie",
-    date: '10/01/2022',
-    imageSrc: '/Clausen_1-min.png',
-    images: [{
-      source:
-        '/Clausen_2-min.png',
-    },
-    {
-      source:
-        '/Clausen_3-min.png',
-    },
-    {
-      source:
-        '/Clausen_4-min.png',
-    },],
-    imageAlt: 'Charte graphique',
-  },
   {
-    id: 15,
+    id: 14,
     name: 'Oley Workshop',
     href: '/project/Oley Workshop',
     description: "Création de supports de communication pour la société Oley Workshop.",
