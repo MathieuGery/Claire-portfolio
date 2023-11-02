@@ -253,7 +253,7 @@ export const projects = [
     name: 'Invention du moderne',
     href: '/project/Invention du moderne',
     description: "Affiches pour l'exposition L'invention du moderne.",
-    short_description: "Édition",
+    short_description: "Typographie",
     date: '20/04/2022',
     imageSrc: '/Clausen_1-min.png',
     images: [{
