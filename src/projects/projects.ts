@@ -389,8 +389,35 @@ est structuré autour d’un fil chronologique.",
     ],
     imageAlt: 'Lipton',
   },
-  {
+   {
     id: 14,
+    name: 'L'invention du moderne',
+    href: '/project/L'invention du moderne',
+    description: "Réalisation d'une affiche typographie, à partir du travail d'un artiste d'un mouvement d'avant garde. 
+  Format : 40X60 cm",
+    short_description: "Typographie",
+    date: '10/01/2022',
+    imageSrc: '/AS_1.jpg',
+    images: [{
+      source:
+        '/Clausen_1-min.png',
+    },
+            {
+      source:
+        '/Clausen_2-min.png',
+    },
+            {
+      source:
+        '/Clausen_3-min.png',
+    },
+            {
+      source:
+        '/Clausen_4-min.png',
+    },],
+    imageAlt: 'Charte graphique',
+  },
+  {
+    id: 15,
     name: 'Oley Workshop',
     href: '/project/Oley Workshop',
     description: "Création de supports de communication pour la société Oley Workshop.",
