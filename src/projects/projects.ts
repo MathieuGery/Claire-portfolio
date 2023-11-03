@@ -198,14 +198,6 @@ export const projects = [
     imageSrc: '/Ligare_1_1.png',
     images: [{
       source:
-        '/Ligare_2.jpg',
-    },
-    {
-      source:
-        '/Ligare_3.jpg',
-    },
-    {
-      source:
         '/couverture_2.png',
     },
     {
@@ -227,6 +219,18 @@ export const projects = [
     {
       source:
         '/page_5.png',
+    },
+    {
+      source:
+        '/Ligare_1.jpg',
+    },
+    {
+      source:
+        '/Ligare_2.jpg',
+    },
+    {
+      source:
+        '/Ligare_3.jpg',
     },],
     imageAlt: 'Le Fil Rouge.',
   },
