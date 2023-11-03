@@ -195,7 +195,7 @@ export const projects = [
     description: "Livret de 12 pages format A5 pour l'exposition Ligare de Laurent Nicolas par l'association Le Fil Rouge. ",
     short_description: "Édition",
     date: '20/04/2022',
-    imageSrc: '/Ligare_4.jpg',
+    imageSrc: '/Ligare_1_1.png',
     images: [{
       source:
         '/Ligare_2.jpg',
