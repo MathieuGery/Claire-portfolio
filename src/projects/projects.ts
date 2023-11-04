@@ -325,7 +325,7 @@ export const projects = [
     description: "Création de l'identité visuelle de l'atelier Silanie.",
     short_description: "Logo",
     date: '26/07/2022',
-    imageSrc: '/silanie_1.jpg',
+    imageSrc: '/silanie_1_1.png',
     images: [{
       source:
         '/AS_2.png',
