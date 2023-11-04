@@ -307,14 +307,14 @@ export const projects = [
     description: "Réalisation d'affiches pour le festival d'art numérique Numerama (projet fictif).",
     short_description: "Publicité",
     date: '20/12/2020',
-    imageSrc: '/N_2.png',
+    imageSrc: '/N_1-min.png',
     images: [{
       source:
-        '/N_1.png',
+        '/N_2-min.png',
     },
     {
       source:
-        '/N_3.png',
+        '/N_3-min.png',
     },],
     imageAlt: 'Affiche Numerama',
   },
