@@ -381,7 +381,9 @@ export const projects = [
     {
       source:
         '/lepoutre_4.png',
-    },
+   },],
+    imageAlt: 'Usine Lepoutre',
+  },
   {
     id: 14,
     name: 'Oley Workshop',
