@@ -159,7 +159,7 @@ export const projects = [
     },
     {
       source:
-        '/CAVROIS-min.jpg',
+        '/CAVROIS-1-min.png',
     },
     ],
     imageAlt: 'Linogravures.',
