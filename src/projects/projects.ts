@@ -117,11 +117,6 @@ export const projects = [
       source:
         '/affiches.jpg',
     },
-
-    {
-      source:
-        '/set_de_tabel_egrappe-02.jpg',
-    },
     {
       source:
         '/set_de_tabel_egrappe-03.jpg',
@@ -136,16 +131,9 @@ export const projects = [
     },
     {
       source:
-        '/signalétique_egrappe.jpg',
-    },
-    {
-      source:
         '/papier_de_soie.jpg',
     },
-    {
-      source:
-        '/stop_trottoir.jpg',
-    },],
+   ],
     imageAlt:
       'Egrappe.',
   },
