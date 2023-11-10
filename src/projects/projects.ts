@@ -139,42 +139,30 @@ export const projects = [
   },
   {
     id: 5,
-    name: 'STRT PNT',
-    href: '/project/STRT PNT',
-    description: "Packaging STRT PNT ft. Matisse.",
+    name: 'Linogravures',
+    href: '/project/Linogravures',
+    description: "Créations de linogravures.",
     short_description: "Packaging",
-    date: '20/01/2022',
-    imageSrc: '/face.png',
+    date: '20/09/2023',
+    imageSrc: '/DA_1-min.jpg',
     images: [{
       source:
-        '/dos_1.png',
+        '/DA_2-min.jpg',
     },
     {
       source:
-        '/BLEUFACE.png',
+        '/DA_3-min.jpg',
     },
     {
       source:
-        '/rose.png',
+        '/NY-min.jpg',
     },
     {
       source:
-        '/orangeface.png',
-    },
-    {
-      source:
-        '/jaune.png',
-    },
-    {
-      source:
-        '/rougeface.png',
-    },
-    {
-      source:
-        '/vert.png',
+        '/CAVROIS-min.jpg',
     },
     ],
-    imageAlt: 'Packaging STRT PNT.',
+    imageAlt: 'Linogravures.',
   },
   {
     id: 6,
