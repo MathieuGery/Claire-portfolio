@@ -362,6 +362,28 @@ export const projects = [
   },
   {
     id: 14,
+    name: 'Illustrations',
+    href: '/project/Illustrations',
+    description: " J'ai réalisé divers illustrations à la gouache, crayons de couleurs... ",
+    short_description: "Design éditorial",
+    date: '30/10/2023',
+    imageSrc: '/T_MES.png',
+    images: [{
+      source:
+        '/amsterdam_insta.jpg',
+    },
+    {
+      source:
+        '/theiere.png',
+    },
+    {
+      source:
+        '/wimereux.png',
+   },],
+    imageAlt: 'Illustrations',
+  },
+  {
+    id: 15,
     name: 'Oley Workshop',
     href: '/project/Oley Workshop',
     description: "Création de supports de communication pour la société Oley Workshop.",
