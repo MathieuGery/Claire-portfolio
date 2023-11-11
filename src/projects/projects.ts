@@ -364,7 +364,7 @@ export const projects = [
     id: 14,
     name: 'Illustrations',
     href: '/project/Illustrations',
-    description: " J'ai réalisé divers illustrations à la gouache, crayons de couleurs... ",
+    description: " J'ai réalisé divers illustrations à la gouache, crayons de couleur, numérique... ",
     short_description: "Design éditorial",
     date: '30/10/2023',
     imageSrc: '/T_MES.png',
@@ -379,6 +379,18 @@ export const projects = [
     {
       source:
         '/wimereux.png',
+   },
+   {
+      source:
+        '/théiere.fond.png',
+   },
+  {
+      source:
+        '/vase_1.png',
+   },
+   {
+      source:
+        '/vase_2.png',
    },],
     imageAlt: 'Illustrations',
   },
