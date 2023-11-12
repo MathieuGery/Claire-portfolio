@@ -165,18 +165,6 @@ export const projects = [
     imageAlt: 'Linogravures.',
   },
   {
-    id: 16,
-    name: 'Villa Cavrois',
-    href: '/project/Villa Cavrois',
-    description: "Linogravure",
-    short_description: "Linogravure de la villa Cavrois",
-    date: '20/09/2023',
-    imageSrc: '/CAVROIS-1-min.png',
-    images: [{
-      source:
-        '/CAVROIS-1-min.png',
-    },
-  {
     id: 6,
     name: 'Ligare',
     href: '/project/Ligare',
@@ -432,5 +420,17 @@ export const projects = [
     },],
     imageAlt: 'Oley workshop',
   },
+   {
+    id: 16,
+    name: 'Villa Cavrois',
+    href: '/project/Villa Cavrois',
+    description: "Linogravure",
+    short_description: "Linogravure de la villa Cavrois",
+    date: '20/09/2023',
+    imageSrc: '/CAVROIS-1-min.png',
+    images: [{
+      source:
+        '/CAVROIS-1-min.png',
+    },
 ]
 // More projects...
