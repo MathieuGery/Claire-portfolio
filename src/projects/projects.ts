@@ -168,7 +168,7 @@ export const projects = [
     id: 15,
     name: 'Villa Cavrois',
     href: '/project/Villa Cavrois',
-    description: "Créations de linogravures.",
+    description: "Linogravure",
     short_description: "Linogravure de la villa Cavrois",
     date: '20/09/2023',
     imageSrc: '/CAVROIS-1-min.png',
