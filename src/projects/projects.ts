@@ -139,10 +139,10 @@ export const projects = [
   },
   {
     id: 5,
-    name: 'Linogravures',
-    href: '/project/Linogravures',
+    name: 'Daruma',
+    href: '/project/Daruma',
     description: "Créations de linogravures.",
-    short_description: "Packaging",
+    short_description: "Linogravure",
     date: '20/09/2023',
     imageSrc: '/DA_1-min.jpg',
     images: [{
@@ -164,6 +164,18 @@ export const projects = [
     ],
     imageAlt: 'Linogravures.',
   },
+  {
+    id: 15,
+    name: 'Villa Cavrois',
+    href: '/project/Villa Cavrois',
+    description: "Créations de linogravures.",
+    short_description: "Linogravure de la villa Cavrois",
+    date: '20/09/2023',
+    imageSrc: '/CAVROIS-1-min.png',
+    images: [{
+      source:
+        '/CAVROIS-1-min.png',
+    },
   {
     id: 6,
     name: 'Ligare',
