@@ -165,7 +165,7 @@ export const projects = [
     imageAlt: 'Linogravures.',
   },
   {
-    id: 15,
+    id: 16,
     name: 'Villa Cavrois',
     href: '/project/Villa Cavrois',
     description: "Linogravure",
