@@ -394,8 +394,30 @@ export const projects = [
    },],
     imageAlt: 'Illustrations',
   },
-  {
+   {
     id: 15,
+    name: 'Les fous à réAction',
+    href: '/project/Les fous à réAction',
+    description: "Création de flyer pour la compagnie Les fous à réAction ",
+    short_description: "Flyer",
+    date: '20/03/2023',
+    imageSrc: '/flyer_portrait_3-min.png',
+    images: [{
+      source:
+        '/flyer_3.png',
+    },
+    {
+      source:
+        '/flyer_LFAR_paysage.png',
+    },
+    {
+      source:
+        '/flyer_paysage_.png',
+    },],
+    imageAlt: 'Création de flyer pour la compagnie Les fous à réAction.',
+  },
+  {
+    id: 16,
     name: 'Oley Workshop',
     href: '/project/Oley Workshop',
     description: "Création de supports de communication pour la société Oley Workshop.",
@@ -419,33 +441,5 @@ export const projects = [
         '/oley_flyers-min.png',
     },],
     imageAlt: 'Oley workshop',
-  },
-  {
-    id: 16,
-    name: 'Daruma',
-    href: '/project/Daruma',
-    description: "Créations de linogravures.",
-    short_description: "Linogravure",
-    date: '20/09/2023',
-    imageSrc: '/DA_1-min.jpg',
-    images: [{
-      source:
-        '/DA_2-min.jpg',
-    },
-    {
-      source:
-        '/DA_3-min.jpg',
-    },
-    {
-      source:
-        '/NY-min.jpg',
-    },
-    {
-      source:
-        '/CAVROIS-1-min.png',
-    },
-    ],
-    imageAlt: 'Linogravures.',
-  },
-]
+  },]
 // More projects...
