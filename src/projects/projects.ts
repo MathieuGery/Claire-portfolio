@@ -420,17 +420,32 @@ export const projects = [
     },],
     imageAlt: 'Oley workshop',
   },
-   {
+  {
     id: 16,
-    name: 'Villa Cavrois',
-    href: '/project/Villa Cavrois',
-    description: "Linogravure",
-    short_description: "Linogravure de la villa Cavrois",
+    name: 'Daruma',
+    href: '/project/Daruma',
+    description: "Créations de linogravures.",
+    short_description: "Linogravure",
     date: '20/09/2023',
-    imageSrc: '/CAVROIS-1-min.png',
+    imageSrc: '/DA_1-min.jpg',
     images: [{
+      source:
+        '/DA_2-min.jpg',
+    },
+    {
+      source:
+        '/DA_3-min.jpg',
+    },
+    {
+      source:
+        '/NY-min.jpg',
+    },
+    {
       source:
         '/CAVROIS-1-min.png',
     },
+    ],
+    imageAlt: 'Linogravures.',
+  },
 ]
 // More projects...
