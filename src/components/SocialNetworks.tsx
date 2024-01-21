@@ -44,7 +44,7 @@ export default function SocialNetworks() {
   return (
     <div className="bg-white my-20">
       <div className="text-center">
-        <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+        <h2 className="text-4xl font-bold tracking-tight text-gray-900">
           Où me trouver
         </h2>
       </div>
