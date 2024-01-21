@@ -309,24 +309,24 @@ export const projects = [
     description: "Affiches pour l'exposition L'invention du moderne.",
     short_description: "Typographie",
     date: '20/04/2022',
-    imageSrc: '/C_1-min.png',
+    imageSrc: '/invention-du-moderne/C_1.jpg',
     images: [{
       source:
-        '/C_2-min.png',
-      height: 500,
-      width: 500
+        '/invention-du-moderne/C_2.jpg',
+      height: 2000,
+      width: 2000
     },
     {
       source:
-        '/C_3-min.png',
-      height: 500,
-      width: 500
+        '/invention-du-moderne/C_3.jpg',
+      height: 2000,
+      width: 2000
     },
     {
       source:
-        '/C_4-min.png',
-      height: 500,
-      width: 500
+        '/invention-du-moderne/C_4.jpg',
+      height: 2000,
+      width: 2000
     },],
     imageAlt: 'Affiche typographique.',
   },
