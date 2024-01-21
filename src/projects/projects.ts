@@ -56,65 +56,64 @@ export const projects = [
     description: "Packaging pour le fast food écoresponsable et healthy Bon & Bio. (Projet fictif)",
     short_description: "Packaging",
     date: '2/12/2022',
-    imageSrc: '/sac.png',
+    imageSrc: '/bon-&-bio/sac.jpg',
     images: [{
       source:
-        '/boite.jpg',
+        '/bon-&-bio/boite.jpg',
       height: 500,
       width: 500
     },
     {
       source:
-        '/boite_interieur.jpg',
+        '/bon-&-bio/boite_interieur.jpg',
       height: 500,
       width: 500
     },
     {
       source:
-        '/couverts.jpg',
+        '/bon-&-bio/couverts.jpg',
       height: 500,
       width: 500
     },
     {
       source:
-        '/cup.jpg',
-      height: 500,
-      width: 500
-    },
-
-    {
-      source:
-        '/cup_holder.jpg',
+        '/bon-&-bio/cup.jpg',
       height: 500,
       width: 500
     },
     {
       source:
-        '/1_1.png',
+        '/bon-&-bio/cup_holder.jpg',
       height: 500,
       width: 500
     },
     {
       source:
-        '/1_4_2.png',
+        '/bon-&-bio/1_1.jpg',
       height: 500,
       width: 500
     },
     {
       source:
-        '/1_4_1.png',
+        '/bon-&-bio/1_4_2.jpg',
       height: 500,
       width: 500
     },
     {
       source:
-        '/1_4.png',
+        '/bon-&-bio/1_4_1.jpg',
       height: 500,
       width: 500
     },
     {
       source:
-        '/1_4_3.png',
+        '/bon-&-bio/1_4.jpg',
+      height: 500,
+      width: 500
+    },
+    {
+      source:
+        '/bon-&-bio/1_4_3.jpg',
       height: 500,
       width: 500
     },],
