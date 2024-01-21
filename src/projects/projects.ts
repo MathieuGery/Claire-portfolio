@@ -184,10 +184,10 @@ export const projects = [
   },
   {
     id: 5,
-    name: 'Daruma',
-    href: '/project/Daruma',
+    name: 'Linogravures',
+    href: '/project/Linogravures',
     description: "Créations de linogravures.",
-    short_description: "Linogravure",
+    short_description: "Linogravures",
     date: '20/09/2023',
     imageSrc: '/DA_1-min.jpg',
     images: [{
@@ -471,10 +471,10 @@ export const projects = [
   },
   {
     id: 14,
-    name: 'Illustrations',
-    href: '/project/Illustrations',
+    name: 'Illustrations 2023',
+    href: '/project/Illustrations 2023',
     description: " J'ai réalisé divers illustrations à la gouache, crayons de couleur, numérique... ",
-    short_description: "Design éditorial",
+    short_description: "Illustrations",
     date: '30/10/2023',
     imageSrc: '/T_MES.png',
     images: [{
