@@ -6,24 +6,24 @@ export const projects = [
     description: "Création de flyer pour la compagnie Les fous à réAction ",
     short_description: "Flyer",
     date: '20/03/2023',
-    imageSrc: '/flyer_portrait_3-min.png',
+    imageSrc: '/les-fou-a-reaction/flyer_portrait_3.jpeg',
     images: [{
       source:
-        '/flyer_3.png',
-      height: 500,
-      width: 500
+        '/les-fou-a-reaction/flyer_3.jpeg',
+      height: 3010,
+      width: 2354
     },
     {
       source:
-        '/flyer_LFAR_paysage.png',
-      height: 1080,
-      width: 1920
+        '/les-fou-a-reaction/flyer_LFAR_paysage.jpeg',
+      height: 2000,
+      width: 3000
     },
     {
       source:
-        '/flyer_paysage_.png',
-      height: 500,
-      width: 500
+        '/les-fou-a-reaction/flyer_LFAR_portrait.jpeg',
+      height: 2000,
+      width: 3000
     },],
     imageAlt: 'Création de flyer pour la compagnie Les fous à réAction.',
   },
