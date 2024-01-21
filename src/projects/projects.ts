@@ -128,52 +128,52 @@ export const projects = [
     description: "Égrappé est un caviste lillois qui propose des sélections de vin. Voici ma proposition d'affiches, flyers, sets de table et signalétique.",
     short_description: "Workshop",
     date: '11/02/2023',
-    imageSrc: '/flyer_1_1.jpg',
+    imageSrc: '/egrappe/flyer_1_1.jpg',
     images: [{
       source:
-        '/flyer_2.jpg',
+        '/egrappe/flyer_2.jpg',
       height: 2000,
       width: 2799
     },
     {
       source:
-        '/flyer_3.jpg',
+        '/egrappe/flyer_3.jpg',
       height: 2000,
       width: 2799
     },
     {
       source:
-        '/flyer_4.jpg',
+        '/egrappe/flyer_4.jpg',
       height: 2000,
       width: 2799
     },
     {
       source:
-        '/affiches.jpg',
+        '/egrappe/affiches.jpg',
       height: 3310,
       width: 4808
     },
     {
       source:
-        '/set_de_tabel_egrappe-03.jpg',
+        '/egrappe/set_de_tabel_egrappe-03.jpg',
       height: 709,
       width: 992
     },
     {
       source:
-        '/set_de_tabel_egrappe-04.jpg',
+        '/egrappe/set_de_tabel_egrappe-04.jpg',
       height: 709,
       width: 992
     },
     {
       source:
-        '/set_de_tabel_egrappe-05.jpg',
+        '/egrappe/set_de_tabel_egrappe-05.jpg',
       height: 709,
       width: 992
     },
     {
       source:
-        '/papier_de_soie.jpg',
+        '/egrappe/papier_de_soie.jpg',
       height: 3840,
       width: 5760
     },
