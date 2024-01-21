@@ -133,51 +133,50 @@ export const projects = [
     images: [{
       source:
         '/flyer_2.jpg',
-      height: 500,
-      width: 500
+      height: 2000,
+      width: 2799
     },
     {
       source:
         '/flyer_3.jpg',
-      height: 500,
-      width: 500
+      height: 2000,
+      width: 2799
     },
     {
       source:
         '/flyer_4.jpg',
-      height: 500,
-      width: 500
+      height: 2000,
+      width: 2799
     },
-
     {
       source:
         '/affiches.jpg',
-      height: 500,
-      width: 500
+      height: 3310,
+      width: 4808
     },
     {
       source:
         '/set_de_tabel_egrappe-03.jpg',
-      height: 500,
-      width: 500
+      height: 709,
+      width: 992
     },
     {
       source:
         '/set_de_tabel_egrappe-04.jpg',
-      height: 500,
-      width: 500
+      height: 709,
+      width: 992
     },
     {
       source:
         '/set_de_tabel_egrappe-05.jpg',
-      height: 500,
-      width: 500
+      height: 709,
+      width: 992
     },
     {
       source:
         '/papier_de_soie.jpg',
-      height: 500,
-      width: 500
+      height: 3840,
+      width: 5760
     },
     ],
     imageAlt:
