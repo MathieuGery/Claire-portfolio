@@ -4,6 +4,7 @@ import Footer from '@/components/Footer'
 import HeroSection from '@/components/HeroSection'
 import Recap from '@/components/Recap'
 import SocialNetworks from '@/components/SocialNetworks'
+import CvList from '@/components/CvList'
 
 export default function APropos() {
   return (
@@ -17,6 +18,7 @@ export default function APropos() {
       <main>
         <NavBar />
         <HeroSection />
+        <CvList />
         <Recap />
         <SocialNetworks />
       </main>

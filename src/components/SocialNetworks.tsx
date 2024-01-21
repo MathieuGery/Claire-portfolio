@@ -42,7 +42,7 @@ const incentives = [
 
 export default function SocialNetworks() {
   return (
-    <div className="bg-white">
+    <div className="bg-white my-20">
       <div className="text-center">
         <h2 className="text-2xl font-bold tracking-tight text-gray-900">
           Où me trouver
@@ -50,9 +50,9 @@ export default function SocialNetworks() {
       </div>
       <div className="content-center mt-10 text-center flex items-center justify-center w-screen">
         {incentives.map((incentive) => (
-          <a key={incentive.name} href={incentive.href} className="text-secondary mx-10">
+          <a key={incentive.name} href={incentive.href} className="text-primary mx-10">
             <span className="sr-only">{incentive.name}</span>
-            <incentive.icon className="h-12 w-12 hover:text-primary hover:fill-primary m-5" aria-hidden="true" />
+            <incentive.icon className="h-12 w-12 hover:text-secondary hover:fill-secondary m-5" aria-hidden="true" />
           </a>
         ))}
       </div>
