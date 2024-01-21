@@ -39,7 +39,7 @@ export default function NavBar() {
         </a>
         <div className="flex flex-1 justify-end">
           <a href="/" className="text-sm font-semibold leading-6 text-primary">
-            Icones <span aria-hidden="true">&rarr;</span>
+     
           </a>
         </div>
       </nav>
@@ -61,13 +61,13 @@ export default function NavBar() {
               <span className="sr-only">Claire's Portfolio</span>
               <img
                 className="h-8 w-auto"
-                src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                src="/logo.svg"
                 alt=""
               />
             </a>
             <div className="flex flex-1 justify-end">
               <a href="/" className="text-sm font-semibold leading-6 text-primary">
-                Icones <span aria-hidden="true">&rarr;</span>
+               
               </a>
             </div>
           </div>
