@@ -223,60 +223,60 @@ export const projects = [
     description: "Livret de 12 pages format A5 pour l'exposition Ligare de Laurent Nicolas par l'association Le Fil Rouge. ",
     short_description: "Édition",
     date: '20/04/2022',
-    imageSrc: '/Ligare_1_1.png',
+    imageSrc: '/ligare/Ligare_1_1.jpg',
     images: [{
       source:
-        '/couverture_2.png',
-      height: 500,
-      width: 500
+        '/ligare/couverture_2.jpg',
+      height: 960,
+      width: 1280
     },
     {
       source:
-        '/premiere_page.png',
-      height: 500,
-      width: 500
+        '/ligare/premiere_page.jpg',
+      height: 960,
+      width: 1280
     },
     {
       source:
-        '/page_2.png',
-      height: 500,
-      width: 500
+        '/ligare/page_2.jpg',
+      height: 960,
+      width: 1280
     },
     {
       source:
-        '/page_3.png',
-      height: 500,
-      width: 500
+        '/ligare/page_3.jpg',
+      height: 960,
+      width: 1280
     },
     {
       source:
-        '/page_4.png',
-      height: 500,
-      width: 500
+        '/ligare/page_4.jpg',
+      height: 960,
+      width: 1280
     },
     {
       source:
-        '/page_5.png',
-      height: 500,
-      width: 500
+        '/ligare/page_5.jpg',
+      height: 960,
+      width: 1280
     },
     {
       source:
-        '/Ligare_1.jpg',
-      height: 500,
-      width: 500
+        '/ligare/Ligare_1.jpg',
+      height: 3750,
+      width: 5000
     },
     {
       source:
-        '/Ligare_2.jpg',
-      height: 500,
-      width: 500
+        '/ligare/Ligare_2.jpg',
+      height: 3750,
+      width: 5000
     },
     {
       source:
-        '/Ligare_3.jpg',
-      height: 500,
-      width: 500
+        '/ligare/Ligare_3.jpg',
+      height: 3750,
+      width: 5000
     },],
     imageAlt: 'Le Fil Rouge.',
   },
