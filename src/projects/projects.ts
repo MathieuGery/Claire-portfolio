@@ -188,30 +188,30 @@ export const projects = [
     description: "Créations de linogravures.",
     short_description: "Linogravures",
     date: '20/09/2023',
-    imageSrc: '/DA_1-min.jpg',
+    imageSrc: '/linogravures/DA_1.jpg',
     images: [{
       source:
-        '/DA_2-min.jpg',
-      height: 500,
-      width: 500
+        '/linogravures/DA_2.jpg',
+      height: 1440,
+      width: 1440
     },
     {
       source:
-        '/DA_3-min.jpg',
-      height: 500,
-      width: 500
+        '/linogravures/DA_3.jpg',
+      height: 1440,
+      width: 1440
     },
     {
       source:
-        '/NY-min.jpg',
-      height: 500,
-      width: 500
+        '/linogravures/NY.jpg',
+      height: 1080,
+      width: 1080
     },
     {
       source:
-        '/CAVROIS-1-min.png',
-      height: 500,
-      width: 500
+        '/linogravures/CAVROIS-1.jpg',
+      height: 1103,
+      width: 1103
     },
     ],
     imageAlt: 'Linogravures.',
