@@ -10,14 +10,20 @@ export const projects = [
     images: [{
       source:
         '/flyer_3.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/flyer_LFAR_paysage.png',
+      height: 1080,
+      width: 1920
     },
     {
       source:
         '/flyer_paysage_.png',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'Création de flyer pour la compagnie Les fous à réAction.',
   },
@@ -32,10 +38,14 @@ export const projects = [
     images: [{
       source:
         '/mockup am face.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/mockup AM.jpg',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'AM ft. Susan Kare.',
   },
@@ -50,43 +60,63 @@ export const projects = [
     images: [{
       source:
         '/boite.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/boite_interieur.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/couverts.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/cup.jpg',
+      height: 500,
+      width: 500
     },
 
     {
       source:
         '/cup_holder.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/1_1.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/1_4_2.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/1_4_1.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/1_4.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/1_4_3.png',
+      height: 500,
+      width: 500
     },],
 
     imageAlt:
@@ -103,37 +133,53 @@ export const projects = [
     images: [{
       source:
         '/flyer_2.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/flyer_3.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/flyer_4.jpg',
+      height: 500,
+      width: 500
     },
 
     {
       source:
         '/affiches.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/set_de_tabel_egrappe-03.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/set_de_tabel_egrappe-04.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/set_de_tabel_egrappe-05.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/papier_de_soie.jpg',
+      height: 500,
+      width: 500
     },
-   ],
+    ],
     imageAlt:
       'Egrappe.',
   },
@@ -148,18 +194,26 @@ export const projects = [
     images: [{
       source:
         '/DA_2-min.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/DA_3-min.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/NY-min.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/CAVROIS-1-min.png',
+      height: 500,
+      width: 500
     },
     ],
     imageAlt: 'Linogravures.',
@@ -175,38 +229,56 @@ export const projects = [
     images: [{
       source:
         '/couverture_2.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/premiere_page.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/page_2.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/page_3.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/page_4.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/page_5.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/Ligare_1.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/Ligare_2.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/Ligare_3.jpg',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'Le Fil Rouge.',
   },
@@ -221,10 +293,14 @@ export const projects = [
     images: [{
       source:
         '/CP_2.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/CP_3.jpg',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'Charlotte Perriand.',
   },
@@ -239,14 +315,20 @@ export const projects = [
     images: [{
       source:
         '/C_2-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/C_3-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/C_4-min.png',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'Affiche typographique.',
   },
@@ -262,18 +344,26 @@ export const projects = [
     images: [{
       source:
         '/M1.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/M2.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/M3.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/M4.jpg',
+      height: 500,
+      width: 500
     }],
   },
   {
@@ -287,10 +377,14 @@ export const projects = [
     images: [{
       source:
         '/N_2-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/N_3-min.png',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'Affiche Numerama',
   },
@@ -319,21 +413,31 @@ export const projects = [
     images: [{
       source:
         '/THÉ_DEVANT-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/THÉ-DOS-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/1-min.png',
+      height: 500,
+      width: 500
     }, {
       source:
         '/2-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/3-min.png',
+      height: 500,
+      width: 500
     }
     ],
     imageAlt: 'Lipton'
@@ -349,15 +453,21 @@ export const projects = [
     images: [{
       source:
         '/lepoutre_2.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/lepoutre_3.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/lepoutre_4.png',
-   },],
+      height: 500,
+      width: 500
+    },],
     imageAlt: 'Usine Lepoutre',
   },
   {
@@ -371,30 +481,42 @@ export const projects = [
     images: [{
       source:
         '/amsterdam_insta.jpg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/theiere.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/wimereux.png',
-   },
-   {
+      height: 500,
+      width: 500
+    },
+    {
       source:
         '/théiere.fond.png',
-   },
-  {
+      height: 500,
+      width: 500
+    },
+    {
       source:
         '/vase_1.png',
-   },
-   {
+      height: 500,
+      width: 500
+    },
+    {
       source:
         '/vase_2.png',
-   },],
+      height: 500,
+      width: 500
+    },],
     imageAlt: 'Illustrations',
   },
-   {
+  {
     id: 15,
     name: 'Les fous à réAction',
     href: '/project/Les fous à réAction',
@@ -405,14 +527,20 @@ export const projects = [
     images: [{
       source:
         '/flyer_3.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/flyer_LFAR_paysage.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/flyer_paysage_.png',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'Création de flyer pour la compagnie Les fous à réAction.',
   },
@@ -427,66 +555,98 @@ export const projects = [
     images: [{
       source:
         '/indesirable_couv.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_dos.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_1.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_2.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_3.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_4.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_5.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_6.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_7.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_8.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_9.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_10.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_11.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_12.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_13.jpeg',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/indesirable_14.jpeg',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'From screen to print',
   },
@@ -501,18 +661,26 @@ export const projects = [
     images: [{
       source:
         '/oley_kea-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/oley_prestations-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/oley_surmesure-min.png',
+      height: 500,
+      width: 500
     },
     {
       source:
         '/oley_flyers-min.png',
+      height: 500,
+      width: 500
     },],
     imageAlt: 'Oley workshop',
   },]
