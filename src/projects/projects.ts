@@ -418,6 +418,80 @@ export const projects = [
   },
   {
     id: 16,
+    name: 'From screen to print',
+    href: '/project/From screen to print',
+    description: "Workshop : " From screen to print : Réalisation d'un objet éditorial à partir du contenu de son téléphone. Pour ce projet, j'ai choisi d'exploiter plusieurs données que j'ai accumulées dans mon téléphone. Pour le texte, je me suis approprié les SMS égarés d'inconnus qui se trompent de numéro, ainsi que les spams que je reçois quotidiennement. Les photos proviennent de ma galerie, ce sont des photos ratées, étranges ou bien que je n'ai jamais exploité jusqu'à maintenant. Pour la mise en page, j'ai reconstruit la grille qui est utilisée sur le plateau du Scrabble pour venir y placer mes éléments. Le format 12X24 reprend également l'idée du plateau du jeu qui devient un carré quand il est ouvert .",
+    short_description: "Édition",
+    date: '20/11/2023',
+    imageSrc: '/indesirable_premier.jpeg',
+    images: [{
+      source:
+        '/indesirable_couv.jpeg',
+    },
+    {
+      source:
+        '/indesirable_dos.jpeg',
+    },
+    {
+      source:
+        '/indesirable_1.jpeg',
+    },
+    {
+      source:
+        '/indesirable_2.jpeg',
+    },
+    {
+      source:
+        '/indesirable_3.jpeg',
+    },
+    {
+      source:
+        '/indesirable_4.jpeg',
+    },
+    {
+      source:
+        '/indesirable_5.jpeg',
+    },
+    {
+      source:
+        '/indesirable_6.jpeg',
+    },
+    {
+      source:
+        '/indesirable_7.jpeg',
+    },
+    {
+      source:
+        '/indesirable_8.jpeg',
+    },
+    {
+      source:
+        '/indesirable_9.jpeg',
+    },
+    {
+      source:
+        '/indesirable_10.jpeg',
+    },
+    {
+      source:
+        '/indesirable_11.jpeg',
+    },
+    {
+      source:
+        '/indesirable_12.jpeg',
+    },
+    {
+      source:
+        '/indesirable_13.jpeg',
+    },
+    {
+      source:
+        '/indesirable_14.jpeg',
+    },],
+    imageAlt: 'From screen to print',
+  },
+  {
+    id: 17,
     name: 'Oley Workshop',
     href: '/project/Oley Workshop',
     description: "Création de supports de communication pour la société Oley Workshop.",
