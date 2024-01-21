@@ -60,62 +60,62 @@ export const projects = [
     images: [{
       source:
         '/bon-&-bio/boite.jpg',
-      height: 500,
-      width: 500
+      height: 2250,
+      width: 3000
     },
     {
       source:
         '/bon-&-bio/boite_interieur.jpg',
-      height: 500,
-      width: 500
+      height: 2250,
+      width: 3000
     },
     {
       source:
         '/bon-&-bio/couverts.jpg',
-      height: 500,
-      width: 500
+      height: 4500,
+      width: 4500
     },
     {
       source:
         '/bon-&-bio/cup.jpg',
-      height: 500,
-      width: 500
+      height: 3000,
+      width: 4000
     },
     {
       source:
         '/bon-&-bio/cup_holder.jpg',
-      height: 500,
-      width: 500
+      height: 3600,
+      width: 5400
     },
     {
       source:
         '/bon-&-bio/1_1.jpg',
-      height: 500,
-      width: 500
+      height: 853,
+      width: 1280
     },
     {
       source:
         '/bon-&-bio/1_4_2.jpg',
-      height: 500,
-      width: 500
+      height: 853,
+      width: 1280
     },
     {
       source:
         '/bon-&-bio/1_4_1.jpg',
-      height: 500,
-      width: 500
+      height: 853,
+      width: 1280
     },
     {
       source:
         '/bon-&-bio/1_4.jpg',
-      height: 500,
-      width: 500
+      height: 853,
+      width: 1280
     },
     {
       source:
         '/bon-&-bio/1_4_3.jpg',
-      height: 500,
-      width: 500
+      height: 853,
+      width: 1280
     },],
 
     imageAlt:
