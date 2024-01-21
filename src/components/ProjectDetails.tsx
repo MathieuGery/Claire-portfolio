@@ -28,7 +28,7 @@ export default function ProjectDetails(props: any) {
           {props.project.images.map((file: any) => (
             <li key={file.source} className="flex">
               {/* <div className="group block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100"> */}
-                <img src={file.source} alt="" className="overflow-hidden pointer-events-none object-cover rounded-lg bg-gray-100 shadow-xl" />
+                <Image src={file.source} width={500} height={500} alt="" className="h-auto max-w-full rounded-lg bg-gray-100 shadow-xl" />
               {/* </div> */}
             </li>
           ))}

@@ -12,8 +12,11 @@ export default function ProjectsList() {
                 <Image
                   src={product.imageSrc}
                   alt={product.imageAlt}
-                  layout='fill'
-                  objectFit='contain'
+                  height={400}
+                  width={400}
+                  // fill
+                  // layout='fill'
+                  // objectFit='contain'
                   // placeholder="blur"
                   className=''
                 />

@@ -14,7 +14,6 @@ export default function ProjectDetail() {
   useEffect(() => {
     let item: any = projects.find(el => el.name == pid)
     setProject(item)
-    console.log("item", item)
   })
 
   return (
