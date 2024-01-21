@@ -337,31 +337,31 @@ export const projects = [
     description: "Réalisation d'affiches pour le Mainsquare Festival. J'ai utilisé plusieurs techniques comme le photomontage, la gouache, les crayons de couleurs, les feutres à alcool ou encore l'illustration digitale ",
     short_description: "Publicité",
     date: '20/04/2022',
-    imageSrc: '/M_1_1.png',
+    imageSrc: '/mainsquare/M_1_1.jpg',
     imageAlt: 'Affiche Mainsquare',
     images: [{
       source:
-        '/M1.jpg',
-      height: 500,
-      width: 500
+        '/mainsquare/M1.jpg',
+      height: 3456,
+      width: 5184
     },
     {
       source:
-        '/M2.jpg',
-      height: 500,
-      width: 500
+        '/mainsquare/M2.jpg',
+      height: 3456,
+      width: 5184
     },
     {
       source:
-        '/M3.jpg',
-      height: 500,
-      width: 500
+        '/mainsquare/M3.jpg',
+      height: 3456,
+      width: 5184
     },
     {
       source:
-        '/M4.jpg',
-      height: 500,
-      width: 500
+        '/mainsquare/M4.jpg',
+      height: 3456,
+      width: 5184
     }],
   },
   {
