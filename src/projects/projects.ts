@@ -287,18 +287,18 @@ export const projects = [
     description: "Couvertures de livres sur Charlotte Perriand.",
     short_description: "Édition",
     date: '20/12/2021',
-    imageSrc: '/CP_5.jpg',
+    imageSrc: '/charlotte-perriand/CP_5.jpg',
     images: [{
       source:
-        '/CP_2.jpg',
-      height: 500,
-      width: 500
+        '/charlotte-perriand/CP_2.jpg',
+      height: 1926,
+      width: 2248
     },
     {
       source:
-        '/CP_3.jpg',
-      height: 500,
-      width: 500
+        '/charlotte-perriand/CP_3.jpg',
+      height: 1926,
+      width: 2248
     },],
     imageAlt: 'Charlotte Perriand.',
   },
