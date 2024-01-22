@@ -371,18 +371,18 @@ export const projects = [
     description: "Réalisation d'affiches pour le festival d'art numérique Numerama (projet fictif).",
     short_description: "Publicité",
     date: '20/12/2020',
-    imageSrc: '/N_1-min.png',
+    imageSrc: '/numerama/N_1.jpg',
     images: [{
       source:
-        '/N_2-min.png',
-      height: 500,
-      width: 500
+        '/numerama/N_2.jpg',
+      height: 1280,
+      width: 1280
     },
     {
       source:
-        '/N_3-min.png',
-      height: 500,
-      width: 500
+        '/numerama/N_3.jpg',
+      height: 1280,
+      width: 1280
     },],
     imageAlt: 'Affiche Numerama',
   },
@@ -393,10 +393,12 @@ export const projects = [
     description: "Création de l'identité visuelle de l'atelier Silanie.",
     short_description: "Logo",
     date: '26/07/2022',
-    imageSrc: '/silanie_1_1.png',
+    imageSrc: '/atelier-silanie/silanie_1_1.jpg',
     images: [{
       source:
-        '/AS_2.png',
+        '/atelier-silanie/AS_2.jpg',
+      height: 960,
+      width: 1280
     }],
     imageAlt: 'Charte graphique',
   },
@@ -407,35 +409,35 @@ export const projects = [
     description: "Re-design d'une gamme de produits Lipton, selon la charte de l'éco-design.",
     short_description: "Packaging",
     date: '30/10/2023',
-    imageSrc: '/pack-min.png',
+    imageSrc: '/eco-design-lipton/pack.jpg',
     images: [{
       source:
-        '/THÉ_DEVANT-min.png',
-      height: 500,
-      width: 500
+        '/eco-design-lipton/THÉ_DEVANT.jpg',
+      height: 1024,
+      width: 1280
     },
     {
       source:
-        '/THÉ-DOS-min.png',
-      height: 500,
-      width: 500
+        '/eco-design-lipton/THÉ-DOS.jpg',
+      height: 1024,
+      width: 1280
     },
     {
       source:
-        '/1-min.png',
-      height: 500,
-      width: 500
+        '/eco-design-lipton/1.jpg',
+      height: 623,
+      width: 1280
     }, {
       source:
-        '/2-min.png',
-      height: 500,
-      width: 500
+        '/eco-design-lipton/2.jpg',
+      height: 623,
+      width: 1280
     },
     {
       source:
-        '/3-min.png',
-      height: 500,
-      width: 500
+        '/eco-design-lipton/3.jpg',
+      height: 623,
+      width: 1280
     }
     ],
     imageAlt: 'Lipton'
@@ -447,24 +449,24 @@ export const projects = [
     description: " L'ancienne filature Lepoutre située à Roubaix, a été rachetée afin dans faire en haut lieu du e-commerce. Pour accompagner sa commercialisation, réalisez un ouvrage éditorial valorisant l'histoire du bâtiment, structuré autour d'un fil chronologique. Le document doit être lisible tout en alliant histoire et contemporanéité. ",
     short_description: "Design éditorial",
     date: '30/10/2023',
-    imageSrc: '/lepoutre_1.png',
+    imageSrc: '/usine-lepoutre/lepoutre_1.jpg',
     images: [{
       source:
-        '/lepoutre_2.png',
-      height: 500,
-      width: 500
+        '/usine-lepoutre/lepoutre_2.jpg',
+      height: 853,
+      width: 1280
     },
     {
       source:
-        '/lepoutre_3.png',
-      height: 500,
-      width: 500
+        '/usine-lepoutre/lepoutre_3.jpg',
+      height: 853,
+      width: 1280
     },
     {
       source:
-        '/lepoutre_4.png',
-      height: 500,
-      width: 500
+        '/usine-lepoutre/lepoutre_4.jpg',
+      height: 853,
+      width: 1280
     },],
     imageAlt: 'Usine Lepoutre',
   },
@@ -475,42 +477,42 @@ export const projects = [
     description: " J'ai réalisé divers illustrations à la gouache, crayons de couleur, numérique... ",
     short_description: "Illustrations",
     date: '30/10/2023',
-    imageSrc: '/T_MES.png',
+    imageSrc: '/illustrations-2023/T_MES.jpg',
     images: [{
       source:
-        '/amsterdam_insta.jpg',
-      height: 500,
-      width: 500
+        '/illustrations-2023/amsterdam_insta.jpg',
+      height: 1080,
+      width: 1080
     },
     {
       source:
-        '/theiere.png',
-      height: 500,
-      width: 500
+        '/illustrations-2023/theiere.jpg',
+      height: 1103,
+      width: 1103
     },
     {
       source:
-        '/wimereux.png',
-      height: 500,
-      width: 500
+        '/illustrations-2023/wimereux.jpg',
+      height: 1103,
+      width: 1103
     },
     {
       source:
-        '/théiere.fond.png',
-      height: 500,
-      width: 500
+        '/illustrations-2023/théiere.fond.jpg',
+      height: 1103,
+      width: 1103
     },
     {
       source:
-        '/vase_1.png',
-      height: 500,
-      width: 500
+        '/illustrations-2023/vase_1.jpg',
+      height: 1103,
+      width: 1103
     },
     {
       source:
-        '/vase_2.png',
-      height: 500,
-      width: 500
+        '/illustrations-2023/vase_2.jpg',
+      height: 1103,
+      width: 1103
     },],
     imageAlt: 'Illustrations',
   },
@@ -521,102 +523,102 @@ export const projects = [
     description: "Workshop : From screen to print : Réalisation d'un objet éditorial à partir du contenu de son téléphone. Pour ce projet, j'ai choisi d'exploiter plusieurs données que j'ai accumulées dans mon téléphone. Pour le texte, je me suis approprié les SMS égarés d'inconnus qui se trompent de numéro, ainsi que les spams que je reçois quotidiennement. Les photos proviennent de ma galerie, ce sont des photos ratées, étranges ou bien que je n'ai jamais exploité jusqu'à maintenant. Pour la mise en page, j'ai reconstruit la grille qui est utilisée sur le plateau du Scrabble pour venir y placer mes éléments. Le format 12X24 reprend également l'idée du plateau du jeu qui devient un carré quand il est ouvert.",
     short_description: "Édition",
     date: '20/11/2023',
-    imageSrc: '/indesirable_premier.jpg',
+    imageSrc: '/from-screen-to-print/indesirable_premier.jpg',
     images: [{
       source:
-        '/indesirable_couv.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_couv.jpeg',
+      height: 1280,
+      width: 1207
     },
     {
       source:
-        '/indesirable_dos.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_dos.jpeg',
+      height: 1280,
+      width: 1207
     },
     {
       source:
-        '/indesirable_1.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_1.jpeg',
+      height: 917,
+      width: 1280
     },
     {
       source:
-        '/indesirable_2.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_2.jpeg',
+      height: 887,
+      width: 1280
     },
     {
       source:
-        '/indesirable_3.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_3.jpeg',
+      height: 928,
+      width: 1280
     },
     {
       source:
-        '/indesirable_4.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_4.jpeg',
+      height: 928,
+      width: 1280
     },
     {
       source:
-        '/indesirable_5.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_5.jpeg',
+      height: 827,
+      width: 1280
     },
     {
       source:
-        '/indesirable_6.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_6.jpeg',
+      height: 853,
+      width: 1280
     },
     {
       source:
-        '/indesirable_7.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_7.jpeg',
+      height: 917,
+      width: 1280
     },
     {
       source:
-        '/indesirable_8.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_8.jpeg',
+      height: 928,
+      width: 1280
     },
     {
       source:
-        '/indesirable_9.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_9.jpeg',
+      height: 928,
+      width: 1280
     },
     {
       source:
-        '/indesirable_10.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_10.jpeg',
+      height: 928,
+      width: 1280
     },
     {
       source:
-        '/indesirable_11.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_11.jpeg',
+      height: 1009,
+      width: 1280
     },
     {
       source:
-        '/indesirable_12.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_12.jpeg',
+      height: 950,
+      width: 1280
     },
     {
       source:
-        '/indesirable_13.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_13.jpeg',
+      height: 982,
+      width: 1280
     },
     {
       source:
-        '/indesirable_14.jpeg',
-      height: 500,
-      width: 500
+        '/from-screen-to-print/indesirable_14.jpeg',
+      height: 984,
+      width: 1280
     },],
     imageAlt: 'From screen to print',
   },
@@ -627,30 +629,30 @@ export const projects = [
     description: "Création de supports de communication pour la société Oley Workshop.",
     short_description: "Supports de communication",
     date: '20/07/2023',
-    imageSrc: '/flyer_1-min.png',
+    imageSrc: '/oley-workshop/flyer_1.jpg',
     images: [{
       source:
-        '/oley_kea-min.png',
-      height: 500,
-      width: 500
+        '/oley-workshop/oley_kea.jpg',
+      height: 1280,
+      width: 1280
     },
     {
       source:
-        '/oley_prestations-min.png',
-      height: 500,
-      width: 500
+        '/oley-workshop/oley_prestations.jpg',
+      height: 1280,
+      width: 1280
     },
     {
       source:
-        '/oley_surmesure-min.png',
-      height: 500,
-      width: 500
+        '/oley-workshop/oley_surmesure.jpg',
+      height: 1280,
+      width: 1280
     },
     {
       source:
-        '/oley_flyers-min.png',
-      height: 500,
-      width: 500
+        '/oley-workshop/oley_flyers.jpg',
+      height: 1280,
+      width: 1280
     },],
     imageAlt: 'Oley workshop',
   },]
