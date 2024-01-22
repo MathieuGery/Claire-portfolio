@@ -498,7 +498,7 @@ export const projects = [
     },
     {
       source:
-        '/illustrations-2023/théiere.fond.jpg',
+        '/illustrations-2023/theiere-fond.jpg',
       height: 1103,
       width: 1103
     },
