@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     name: 'Les fous à réAction',
     href: '/project/Les fous à réAction',
-    description: "Création de flyer pour la compagnie Les fous à réAction ",
+    description: "Création de flyers pour la compagnie Les fous à réAction ",
     short_description: "Flyer",
     date: '20/03/2023',
     imageSrc: '/les-fou-a-reaction/flyer_portrait_3.jpeg',
@@ -518,6 +518,64 @@ export const projects = [
   },
   {
     id: 15,
+    name: 'Ici - là-bas',
+    href: '/project/Ici - là-bas',
+    description: " Workshop collaboratif. Le projet consiste à créer 12 affiches A0 pour l’accueil de l’ECV, accompagnées de 13 cartes A6 et de 13 cartes A11. Les trois quadriptyques mettent en avant le mot "ICI" avec une citation de Victor Hugo. Chaque quadriptyque s’est vu attribuer une forme et une partie du texte “Les misérables”. Le mot “ICI” sérigraphié en orange, est formé à l’aide de trames construites à partir de ces formes (rond/carré/triangle).  Un kit de correspondance a été élaboré avec des cartes A6 et des enveloppes contenant des timbres A11, inspiré des "valeurs/notions" de Robert M. Pirsig dans "Traité du zen et de l'entretien des motocyclettes.",
+    short_description: "Design graphique",
+    date: '06/01/2024',
+    imageSrc: '/cartes_postales.jpeg',
+    images: [{
+      source:
+        '/mur.jpeg',
+      height: 1280,
+      width: 668
+    },
+    {
+      source:
+        '/persister.jpeg',
+      height: 844,
+      width: 1194
+    },
+    {
+      source:
+        '/serigraphie',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/A6.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/timbre.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/invitation.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/cartes_postales.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici_timbres.jpeg',
+      height: 1080,
+      width: 1080
+    },],
+    imageAlt: 'Illustrations',
+  },
+  {
+    id: 16,
     name: 'From screen to print',
     href: '/project/From screen to print',
     description: "Workshop : From screen to print : Réalisation d'un objet éditorial à partir du contenu de son téléphone. Pour ce projet, j'ai choisi d'exploiter plusieurs données que j'ai accumulées dans mon téléphone. Pour le texte, je me suis approprié les SMS égarés d'inconnus qui se trompent de numéro, ainsi que les spams que je reçois quotidiennement. Les photos proviennent de ma galerie, ce sont des photos ratées, étranges ou bien que je n'ai jamais exploité jusqu'à maintenant. Pour la mise en page, j'ai reconstruit la grille qui est utilisée sur le plateau du Scrabble pour venir y placer mes éléments. Le format 12X24 reprend également l'idée du plateau du jeu qui devient un carré quand il est ouvert.",
@@ -623,7 +681,7 @@ export const projects = [
     imageAlt: 'From screen to print',
   },
   {
-    id: 16,
+    id: 17,
     name: 'Oley Workshop',
     href: '/project/Oley Workshop',
     description: "Création de supports de communication pour la société Oley Workshop.",
