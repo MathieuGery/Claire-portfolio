@@ -10,11 +10,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Claire's portfolio</title>
-        <meta name="description" content="Claire's portfolio" />
+        <title>Claire Gery Graphiste</title>
+        <meta name="description" content="Claire Gery Graphiste" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="name" content="Claire's portfolio" />
-        <meta name="description" content="Claire's portfolio" />
+        <meta name="name" content="Claire Gery Graphiste" />
+        <meta name="description" content="Claire Gery Graphiste" />
         <meta name="image" content="/favicon.ico" />
 
         <link rel="icon" href="/favicon.ico" />
