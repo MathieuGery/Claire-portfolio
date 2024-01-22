@@ -412,13 +412,13 @@ export const projects = [
     imageSrc: '/eco-design-lipton/pack.jpg',
     images: [{
       source:
-        '/eco-design-lipton/THÉ_DEVANT.jpg',
+        '/eco-design-lipton/THE_DEVANT.jpg',
       height: 1024,
       width: 1280
     },
     {
       source:
-        '/eco-design-lipton/THÉ-DOS.jpg',
+        '/eco-design-lipton/THE-DOS.jpg',
       height: 1024,
       width: 1280
     },
