@@ -59,7 +59,7 @@ export default function Footer() {
           ))}
         </div>
         <p className="mt-10 text-center text-xs leading-5 text-gray-500">
-          &copy; 2023 Claire's Portfolio, Inc. All rights reserved. Made with love by Mathieu ❤️
+          &copy; 2024 Claire's Portfolio, Inc. All rights reserved. Made with love by Mathieu ❤️
         </p>
       </div>
     </footer>
