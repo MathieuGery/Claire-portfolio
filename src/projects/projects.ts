@@ -525,7 +525,7 @@ export const projects = [
     date: '06/01/2024',
     imageSrc: '/ici-la-bas/cartes_postales.jpeg',
     images: [{
-      
+
       source:
         '/ici-la-bas/persister_1.jpg',
       height: 1080,
@@ -534,8 +534,8 @@ export const projects = [
     {
       source:
         '/ici-la-bas/persister_2.jpeg',
-      height: 757,
-      width: 1280
+      height: 1280,
+      width: 757
     },
     {
       source:
