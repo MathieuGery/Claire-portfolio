@@ -477,40 +477,40 @@ export const projects = [
     description: " J'ai réalisé divers illustrations à la gouache, crayons de couleur, numérique... ",
     short_description: "Illustrations",
     date: '30/10/2023',
-    imageSrc: '/illustrations-2023/T_MES.jpg',
+    imageSrc: '/illustrations-2023/T_MES.jpeg',
     images: [{
       source:
-        '/illustrations-2023/amsterdam_insta.jpg',
+        '/illustrations-2023/amsterdam_insta.jpeg',
       height: 1080,
       width: 1080
     },
     {
       source:
-        '/illustrations-2023/theiere.jpg',
+        '/illustrations-2023/theiere.jpeg',
       height: 1103,
       width: 1103
     },
     {
       source:
-        '/illustrations-2023/wimereux.jpg',
+        '/illustrations-2023/wimereux.jpeg',
       height: 1103,
       width: 1103
     },
     {
       source:
-        '/illustrations-2023/theiere-fond.jpg',
+        '/illustrations-2023/theiere-fond.jpeg',
       height: 1103,
       width: 1103
     },
     {
       source:
-        '/illustrations-2023/vase_1.jpg',
+        '/illustrations-2023/vase_1.jpeg',
       height: 1103,
       width: 1103
     },
     {
       source:
-        '/illustrations-2023/vase_2.jpg',
+        '/illustrations-2023/vase_2.jpeg',
       height: 1103,
       width: 1103
     },],
