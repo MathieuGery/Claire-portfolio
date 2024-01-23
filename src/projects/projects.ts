@@ -526,49 +526,49 @@ export const projects = [
     imageSrc: '/cartes_postales.jpeg',
     images: [{
       source:
-        '/mur.jpeg',
+        '/ici-la-bas/mur.jpeg',
       height: 1280,
       width: 668
     },
     {
       source:
-        '/persister.jpeg',
+        '/ici-la-bas/persister.jpeg',
       height: 844,
       width: 1194
     },
     {
       source:
-        '/serigraphie',
+        '/ici-la-bas/serigraphie',
       height: 1080,
       width: 1080
     },
     {
       source:
-        '/A6.jpeg',
+        '/ici-la-bas/A6.jpeg',
       height: 1080,
       width: 1080
     },
     {
       source:
-        '/timbre.jpeg',
+        '/ici-la-bas/timbre.jpeg',
       height: 1080,
       width: 1080
     },
     {
       source:
-        '/invitation.jpeg',
+        '/ici-la-bas/invitation.jpeg',
       height: 1080,
       width: 1080
     },
     {
       source:
-        '/cartes_postales.jpeg',
+        '/ici-la-bas/cartes_postales.jpeg',
       height: 1080,
       width: 1080
     },
     {
       source:
-        '/ici_timbres.jpeg',
+        '/ici-la-bas/ici_timbres.jpeg',
       height: 1080,
       width: 1080
     },],
