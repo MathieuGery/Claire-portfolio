@@ -532,9 +532,9 @@ export const projects = [
     },
     {
       source:
-        '/ici-la-bas/persister.jpeg',
-      height: 1194,
-      width: 844
+        '/ici-la-bas/persister_1.jpg',
+      height: 1080,
+      width: 1080
     },
     {
       source:
