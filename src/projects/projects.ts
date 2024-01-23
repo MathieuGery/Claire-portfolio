@@ -538,7 +538,7 @@ export const projects = [
     },
     {
       source:
-        '/ici-la-bas/serigraphie',
+        '/ici-la-bas/serigraphie.jpeg',
       height: 1080,
       width: 1080
     },
