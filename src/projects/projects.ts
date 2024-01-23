@@ -527,14 +527,14 @@ export const projects = [
     images: [{
       source:
         '/ici-la-bas/mur.jpeg',
-      height: 1280,
-      width: 668
+      height: 668,
+      width: 1280
     },
     {
       source:
         '/ici-la-bas/persister.jpeg',
-      height: 844,
-      width: 1194
+      height: 1194,
+      width: 844
     },
     {
       source:
