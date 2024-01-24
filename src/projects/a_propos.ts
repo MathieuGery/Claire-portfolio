@@ -5,6 +5,6 @@ export const a_propos = {
     title: "Découvrir mon univers",
     description: "Affiche, flyer, packaging, charte graphique, logo, webdesign... J'aime concevoir et donner vie à mes visuels quel que soit le support. Je suis également curieuse, j'adore découvrir de nouvelles techniques et n'hésite pas à m'en servir dans mes créations. Pour télécharger mon cv, c'est par ici !",
     images: [{
-        source: "from-screen-to-print/indesirable_couv.jpeg"
+        source: "ici-la-bas/cartes_postales.jpeg"
     }]
 }
