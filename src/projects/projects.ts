@@ -572,11 +572,12 @@ export const projects = [
       height: 1080,
       width: 1080
     },
-    source:
-    '/ici-la-bas/mur.jpeg',
-  height: 668,
-  width: 1280
-},],
+    {
+      source:
+        '/ici-la-bas/mur.jpeg',
+      height: 668,
+      width: 1280
+    },],
     imageAlt: 'Illustrations',
   },
   {
