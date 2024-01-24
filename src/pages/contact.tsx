@@ -54,8 +54,7 @@ export default function Contact() {
               <div className="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
                 <h2 className="text-3xl font-bold tracking-tight text-gray-900">Une idée, un projet ?</h2>
                 <p className="mt-6 text-lg leading-8 text-gray-600">
-                  Proin volutpat consequat porttitor cras nullam gravida at. Orci molestie a eu arcu. Sed ut tincidunt
-                  integer elementum id sem. Arcu sed malesuada et magna.
+                  Contactez-moi !
                 </p>
                 <dl className="mt-10 space-y-4 text-base leading-7 text-gray-600">
                   <div className="flex gap-x-4">
