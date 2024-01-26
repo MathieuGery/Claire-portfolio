@@ -60,7 +60,7 @@ export default function NavBar() {
             <a href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Claire's Portfolio</span>
               <img
-                className="h-8 w-auto"
+                className="h-5 w-auto"
                 src="/logo.svg"
                 alt=""
               />
