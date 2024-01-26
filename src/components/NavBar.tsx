@@ -35,7 +35,7 @@ export default function NavBar() {
         </div>
         <a href="/" className="-m-1.5 p-1.5">
           <span className="sr-only">Claire's Portfolio</span>
-          <img className="h-20 w-auto" src="/logo.svg" alt="" />
+          <img className="h-10 w-auto" src="/logo.svg" alt="" />
         </a>
         <div className="flex flex-1 justify-end">
           <a href="/" className="text-sm font-semibold leading-6 text-primary">
