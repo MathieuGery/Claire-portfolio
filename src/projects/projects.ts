@@ -550,25 +550,25 @@ export const projects = [
     },
     {
       source:
-        '/ici-la-bas/timbre.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/invitation.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
         '/ici-la-bas/cartes_postales.jpeg',
       height: 1080,
       width: 1080
     },
     {
       source:
+        '/ici-la-bas/timbre.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
         '/ici-la-bas/ici_timbres.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/invitation.jpeg',
       height: 1080,
       width: 1080
     },
