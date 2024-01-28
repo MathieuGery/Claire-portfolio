@@ -779,31 +779,31 @@ export const projects = [
     images: [{
       source:
         '/animations-web/ferme_1.gif',
-      height: 1080,
-      width: 1080
+      height: 768,
+      width: 1366
     },
     {
       source:
         '/animations-web/poule.gif',
-      height: 1080,
-      width: 1080
+      height: 768,
+      width: 1366
     },
     {
       source:
         '/animations-web/bouton.gif',
-      height: 1080,
-      width: 1080
+      height: 768,
+      width: 1366
     }, {
       source:
         '/animations-web/panier.gif',
-      height: 1080,
-      width: 1080
+      height: 768,
+      width: 1366
     },
     {
       source:
         '/animations-web/poussins.gif',
-      height: 1080,
-      width: 1080
+      height: 768,
+      width: 1366
     }
     ],
     imageAlt: 'Motion'
