@@ -3,9 +3,9 @@ import { PaperClipIcon } from '@heroicons/react/20/solid'
 export default function CvList() {
   return (
     <div>
-      <div className="mt-6 mx-40">
+      <div className="sm:mt-6 sm:mx-40 mx-10">
         <dl className="">
-          <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+          <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
             <dt className="text-2xl font-medium leading-6 text-primary">Expériences</dt>
             <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
               <ul className="list-disc">
