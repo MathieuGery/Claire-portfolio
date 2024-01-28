@@ -726,12 +726,6 @@ export const projects = [
     },
     {
       source:
-        '/save-the-date/STD_flyer_1.jpeg',
-      height: 928,
-      width: 1280
-    },
-    {
-      source:
         '/save-the-date/STD_A3_1.jpeg',
       height: 881,
       width: 1080
