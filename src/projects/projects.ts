@@ -778,32 +778,32 @@ export const projects = [
     imageSrc: '/animations-web/animation_vache.gif',
     images: [{
       source:
-        '/animations-web/ferme_1.gif',
-      height: 768,
-      width: 1366
+        '/animations-web/ferme.gif',
+      height: 700,
+      width: 700
     },
     {
       source:
         '/animations-web/poule.gif',
-      height: 768,
-      width: 1366
+      height: 800,
+      width: 800
     },
     {
       source:
         '/animations-web/bouton.gif',
-      height: 768,
-      width: 1366
+      height: 500,
+      width: 500
     }, {
       source:
         '/animations-web/panier.gif',
-      height: 768,
-      width: 1366
+      height: 900,
+      width: 900
     },
     {
       source:
         '/animations-web/poussins.gif',
-      height: 768,
-      width: 1366
+      height: 800,
+      width: 800
     }
     ],
     imageAlt: 'Motion'
