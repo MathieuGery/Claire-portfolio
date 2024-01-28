@@ -1,6 +1,10 @@
 import Image from "next/image";
 import type { RenderPhotoProps } from "react-photo-album";
 
+function checkGif(name: any) {
+  if (/(gif)$/.test(name.src)) return true
+  return false
+}
 export default function NextJsImage({
   photo,
   imageProps: { alt, title, sizes, className, onClick },
@@ -9,6 +13,7 @@ export default function NextJsImage({
   return (
     <div style={{ ...wrapperStyle, position: "relative" }}>
       <Image
+        unoptimized={checkGif(photo)}
         fill
         src={photo}
         placeholder={"blurDataURL" in photo ? "blur" : undefined}
