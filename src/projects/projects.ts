@@ -520,7 +520,7 @@ export const projects = [
     id: 15,
     name: 'Ici - là-bas',
     href: '/project/Ici - là-bas',
-    description: " Workshop collaboratif. Le projet consiste à créer 12 affiches A0 pour l’accueil de l’ECV, accompagnées de 13 cartes A6 et de 13 cartes A11. Les trois quadriptyques mettent en avant le mot \"ICI\" avec une citation de Victor Hugo. Chaque quadriptyque s’est vu attribuer une forme et une partie du texte “Les misérables”. Le mot “ICI” sérigraphié en orange, est formé à l’aide de trames construites à partir de ces formes (rond/carré/triangle).  Un kit de correspondance a été élaboré avec des cartes A6 et des enveloppes contenant des timbres A11, inspiré des \"valeurs/notions\" de Robert M. Pirsig dans \"Traité du zen et de l'entretien des motocyclettes.",
+    description: " Workshop collaboratif. Le projet consiste à créer 12 affiches A0 pour l’accueil de l’ECV, accompagnées de 13 cartes A6 et de 13 cartes A11. Les trois quadriptyques mettent en avant le mot \"ICI\" avec une citation de Victor Hugo. Chaque quadriptyque s’est vu attribuer une forme et une partie du texte “Les misérables”. Le mot “ICI” sérigraphié en orange, est formé à l’aide de trames construites à partir de ces formes (rond/carré/triangle).  Un kit de correspondance a été élaboré avec des cartes A6 et des enveloppes contenant des timbres A11, inspiré des \"valeurs/notions\" de Robert M. Pirsig dans \"Traité du zen et de l'entretien des motocyclettes. Typographie : Picaflor.",
     short_description: "Design graphique",
     date: '06/01/2024',
     imageSrc: '/ici-la-bas/cartes_postales.jpeg',
@@ -557,6 +557,12 @@ export const projects = [
     {
       source:
         '/ici-la-bas/ici_timbres.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/A6.jpeg',
       height: 1080,
       width: 1080
     },
@@ -688,6 +694,163 @@ export const projects = [
   },
   {
     id: 17,
+<<<<<<< HEAD
+    name: 'Save the date',
+    href: '/project/Save the date',
+    description: "Pour ce projet il fallait se mettre dans la peau de la secrétaire d’un graphiste afin de créer une affiche commanditée par Le Signe,  pour la prochaine biennale internationale du graphisme de Chaumont. Malheureusement, le patron étant absent pour une durée indéterminée il ne peut réaliser cette affiche, c’est donc la secrétaire qui s’y colle avec les outils dont elle dispose ( word, excel, powerpoint, agrafeuse, papier, ciseaux, enveloppes…) elle a également accès à l’atelier de sérigraphie. Pour mon affiche j’ai décidé d’utiliser presque exclusivement du matériel qu’une secrétaire a déjà sur son bureau. J’ai formé le mot biennale à l’aide de stylos, trombones, punaises… Le\” 5e\” est créé à partir d’une épluchure de taille-crayon, de post-it et de papier perforé. J’ai utilisé la sérigraphie pour placer les dates et Le Signe, en utilisant les contraintes des petits carreaux du papier. Pour mettre mon image au format et changer sa colorimétrie j’ai utilisé powerpoint.",
+    short_description: "Édition",
+    date: '25/01/2024',
+    imageSrc: '/save-the-date/STD_affiche_2.jpeg',
+    images: [{
+      source:
+        '/save-the-date/STD_affiche_1.jpeg',
+      height: 1280,
+      width: 949
+    },
+    {
+      source:
+        '/save-the-date/STD_affiche_3.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_serigraphie.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_flyer_1.jpeg',
+      height: 876,
+      width: 1280
+    },
+    {
+      source:
+        '/save-the-date/STD_flyer_1.jpeg',
+      height: 928,
+      width: 1280
+    },
+    {
+      source:
+        '/save-the-date/STD_A3_1.jpeg',
+      height: 881,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_A3_2.jpeg',
+      height: 881,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_A3_3.jpeg',
+      height: 881,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_flyers_3.jpeg',
+      height: 881,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_flyer.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_flyers_2.jpeg',
+      height: 805,
+      width: 1080
+    },],
+    imageAlt: 'Save the date',
+  },
+  {
+    id: 18,
+    name: 'Animations web',
+    href: '/project/Animations web',
+    description: "Création d'illustration et items d'UI kit, pour une ferme en ligne.",
+    short_description: "Motion",
+    date: '01/05/2023',
+    imageSrc: '/animations-web/animation_vache.gif',
+    images: [{
+      source:
+        '/animations-web/ferme_1.gif',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/animations-web/poule.gif',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/animations-web/bouton.gif',
+      height: 1080,
+      width: 1080
+    }, {
+      source:
+        '/animations-web/panier.gif',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/animations-web/poussins.gif',
+      height: 1080,
+      width: 1080
+    }
+    ],
+    imageAlt: 'Motion'
+  },
+  {
+    id: 19,
+    name: 'Animations web',
+    href: '/project/Animations web',
+    description: "Création d'illustration et items d'UI kit, pour une ferme en ligne.",
+    short_description: "Motion",
+    date: '01/05/2023',
+    imageSrc: '/animations-web/animation_vache.gif',
+    images: [{
+      source:
+        '/animations-web/ferme_1.gif',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/animations-web/poule.gif',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/animations-web/bouton.gif',
+      height: 1080,
+      width: 1080
+    }, {
+      source:
+        '/animations-web/panier.gif',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/animations-web/poussins.gif',
+      height: 1080,
+      width: 1080
+    }
+    ],
+    imageAlt: 'Motion'
+  },
+  {
+    id: 18,
     name: 'Animations web',
     href: '/project/Animations web',
     description: "Création d'illustration et items d'UI kit, pour une ferme en ligne.",
@@ -759,5 +922,39 @@ export const projects = [
       width: 1280
     },],
     imageAlt: 'Oley workshop',
+  },
+  {
+    id: 20,
+    name: 'Minute Maid',
+    href: '/project/Minute Maid',
+    description: "Réalisation d'une campagne de pub pour Noël d'une des marques de Coca-Cola Company. Prise d'une photo pack-shot et une photo lifestyle déclinées en plusieurs supports de communication.",
+    short_description: "Pub photo",
+    date: '20/12/2023',
+    imageSrc: '/minute-maid/photo_1.jpeg',
+    images: [{
+      source:
+        '/minute-maid/affiche_1_1.jpeg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/minute-maid/affiche_2_2.jpeg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/minute-maid/insta_1.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/minute-maid/insta_2.jpeg',
+      height: 1080,
+      width: 1080
+    },],
+    imageAlt: 'Minute maid',
   },]
 // More projects...
