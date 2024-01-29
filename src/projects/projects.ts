@@ -795,6 +795,12 @@ export const projects = [
     },
     {
       source:
+        '/animations-web/automne_1.gif',
+      height: 1080,
+      width: 1920
+    },
+    {
+      source:
         '/animations-web/poussins.gif',
       height: 800,
       width: 800
