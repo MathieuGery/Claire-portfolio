@@ -29,9 +29,9 @@ export const projects = [
   },
   {
     id: 2,
-    name: 'AM ft. Susan Kare',
-    href: '/project/AM ft. Susan Kare',
-    description: "Pochette de l'album Whatever People Say I Am, That’s What I’m Not du groupe Arctic Monkeys à la manière de Susan Kare.",
+    name: 'Remix graphique',
+    href: '/project/Remix graphique',
+    description: "Pochette de l'album Whatever People Say I Am, That’s What I’m Not du groupe Arctic Monkeys à la manière de Susan Kare. Et l'affiche du film Mary Poppins à la manière de Saul Bass. ",
     short_description: "Remix graphique",
     date: '10/10/2022',
     imageSrc: '/am-ft-susan-kare/AM_M_1.png',
@@ -46,6 +46,18 @@ export const projects = [
         '/am-ft-susan-kare/mockup AM.jpg',
       height: 1700,
       width: 2400
+    },
+    {
+      source:
+        '/am-ft-susan-kare/mary.jpeg',
+      height: 1280,
+      width: 1280
+    },
+    {
+      source:
+        '/am-ft-susan-kare/mary_2.jpeg',
+      height: 1080,
+      width: 1080
     },],
     imageAlt: 'AM ft. Susan Kare.',
   },
