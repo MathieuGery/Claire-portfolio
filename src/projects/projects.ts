@@ -1069,7 +1069,7 @@ export const projects = [
         '/bon-voyage/P_29.jpeg',
       height: 1080,
       width: 1080
-    },,]
+    },],
     imageAlt: 'Photos',
   },]
 // More projects...
