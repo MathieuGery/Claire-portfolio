@@ -58,8 +58,7 @@ export const projects = [
         '/am-ft-susan-kare/mary.jpeg',
       height: 1280,
       width: 1280
-    },
-    ],
+    },],
     imageAlt: 'AM ft. Susan Kare.',
   },
   {
