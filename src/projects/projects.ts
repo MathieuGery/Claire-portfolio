@@ -930,32 +930,32 @@ export const projects = [
     {
       source:
         '/bon-voyage/P_6.jpeg',
-      height: 1080,
-      width: 1080
+      height: 640,
+      width: 455
     },
     {
       source:
         '/bon-voyage/P_7.jpeg',
-      height: 1080,
-      width: 1080
+      height: 640,
+      width: 427
     },
     {
       source:
         '/bon-voyage/P_8.jpeg',
-      height: 1080,
-      width: 1080
+      height: 640,
+      width: 446
     },
     {
       source:
         '/bon-voyage/P_9.jpeg',
-      height: 1080,
-      width: 1080
+      height: 640,
+      width: 356
     },
     {
       source:
         '/bon-voyage/P_10.jpeg',
-      height: 1080,
-      width: 1080
+      height: 640,
+      width: 521
     },
     {
       source:
