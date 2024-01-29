@@ -43,6 +43,12 @@ export const projects = [
     },
     {
       source:
+        '/am-ft-susan-kare/mary_2.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
         '/am-ft-susan-kare/mockup AM.jpg',
       height: 1700,
       width: 2400
@@ -53,12 +59,7 @@ export const projects = [
       height: 1280,
       width: 1280
     },
-    {
-      source:
-        '/am-ft-susan-kare/mary_2.jpeg',
-      height: 1080,
-      width: 1080
-    },],
+    ],
     imageAlt: 'AM ft. Susan Kare.',
   },
   {
@@ -887,5 +888,189 @@ export const projects = [
       width: 1080
     },],
     imageAlt: 'Minute maid',
+  },
+  {
+    id: 21,
+    name: 'Bon voyage',
+    href: '/project/Bon voyage',
+    description: "Cette série de photos est comme mon carnet de voyage de cet été. J’ai pu prendre des photos dans diverses villes comme Paris, Liège, Bray-Dunes, Genève ou encore Lausanne. Voyager m’a permis de voir des paysages différents et de m’entraîner en photographie d'extérieur ainsi qu’en retouche photo.",
+    short_description: "Photographie",
+    date: '20/07/2023',
+    imageSrc: '/bon-voyage/P_1_1.jpeg',
+    images: [{
+      source:
+        '/bon-voyage/P_1.jpeg',
+      height: 640,
+      width: 506
+    },
+    {
+      source:
+        '/bon-voyage/P_2.jpeg',
+      height: 640,
+      width: 425
+    },
+    {
+      source:
+        '/bon-voyage/P_3.jpeg',
+      height: 640,
+      width: 492
+    },
+    {
+      source:
+        '/bon-voyage/P_4.jpeg',
+      height: 370,
+      width: 640
+    },
+    {
+      source:
+        '/bon-voyage/P_5.jpeg',
+      height: 640,
+      width: 480
+    },
+    {
+      source:
+        '/bon-voyage/P_6.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_7.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_8.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_9.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_10.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_11.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_12.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_13.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_14.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_15.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_16.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_17.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_18.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_19.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_20.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_21.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_22.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_23.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_24.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_25.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_26.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_27.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_28.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/bon-voyage/P_29.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    imageAlt: 'Photos',
   },]
 // More projects...
