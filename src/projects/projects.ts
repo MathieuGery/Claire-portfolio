@@ -886,7 +886,7 @@ export const projects = [
     short_description: "Publicité",
     date: '20/04/2022',
     imageSrc: '/mainsquare/M_1_1.jpg',
-    imageAlt: 'Affiche Mainsquare',
+    imageAlt: 'mainsquare',
     images: [{
       source:
         '/mainsquare/M1.jpg',
@@ -911,7 +911,6 @@ export const projects = [
       height: 3456,
       width: 5184
     },],
-    imageAlt: 'mainsquare',
   },
   {
     id: 18,
