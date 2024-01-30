@@ -1,6 +1,6 @@
 export const projects = [
   {
-    id: 17,
+    id: 1,
     name: 'Save the date',
     href: '/project/Save the date',
     description: "Pour ce projet il fallait se mettre dans la peau de la secrétaire d’un graphiste afin de créer une affiche commanditée par Le Signe,  pour la prochaine biennale internationale du graphisme de Chaumont. Malheureusement, le patron étant absent pour une durée indéterminée il ne peut réaliser cette affiche, c’est donc la secrétaire qui s’y colle avec les outils dont elle dispose ( word, excel, powerpoint, agrafeuse, papier, ciseaux, enveloppes…) elle a également accès à l’atelier de sérigraphie. Pour mon affiche j’ai décidé d’utiliser presque exclusivement du matériel qu’une secrétaire a déjà sur son bureau. J’ai formé le mot biennale à l’aide de stylos, trombones, punaises… Le\” 5e\” est créé à partir d’une épluchure de taille-crayon, de post-it et de papier perforé. J’ai utilisé la sérigraphie pour placer les dates et Le Signe, en utilisant les contraintes des petits carreaux du papier. Pour mettre mon image au format et changer sa colorimétrie j’ai utilisé powerpoint.",
@@ -70,7 +70,7 @@ export const projects = [
     imageAlt: 'Save the date',
   },
   {
-    id: 15,
+    id: 2,
     name: 'Ici & là-bas',
     href: '/project/Ici & là-bas',
     description: " Workshop collaboratif. Le projet consiste à créer 12 affiches A0 pour l’accueil de l’ECV, accompagnées de 13 cartes A6 et de 13 cartes A11. Les trois quadriptyques mettent en avant le mot \"ICI\" avec une citation de Victor Hugo. Chaque quadriptyque s’est vu attribuer une forme et une partie du texte “Les misérables”. Le mot “ICI” sérigraphié en orange, est formé à l’aide de trames construites à partir de ces formes (rond/carré/triangle).  Un kit de correspondance a été élaboré avec des cartes A6 et des enveloppes contenant des timbres A11, inspiré des \"valeurs/notions\" de Robert M. Pirsig dans \"Traité du zen et de l'entretien des motocyclettes. Typographie : Picaflor.",
@@ -140,7 +140,7 @@ export const projects = [
     imageAlt: 'Illustrations',
   },
   {
-    id: 16,
+    id: 3,
     name: 'From screen to print',
     href: '/project/From screen to print',
     description: "Workshop : From screen to print : Réalisation d'un objet éditorial à partir du contenu de son téléphone. Pour ce projet, j'ai choisi d'exploiter plusieurs données que j'ai accumulées dans mon téléphone. Pour le texte, je me suis approprié les SMS égarés d'inconnus qui se trompent de numéro, ainsi que les spams que je reçois quotidiennement. Les photos proviennent de ma galerie, ce sont des photos ratées, étranges ou bien que je n'ai jamais exploité jusqu'à maintenant. Pour la mise en page, j'ai reconstruit la grille qui est utilisée sur le plateau du Scrabble pour venir y placer mes éléments. Le format 12X24 reprend également l'idée du plateau du jeu qui devient un carré quand il est ouvert.",
@@ -246,7 +246,7 @@ export const projects = [
     imageAlt: 'From screen to print',
   },
   {
-    id: 12,
+    id: 4,
     name: 'Eco-design Lipton',
     href: '/project/Eco-design Lipton',
     description: "Re-design d'une gamme de produits Lipton, selon la charte de l'éco-design.",
@@ -286,7 +286,7 @@ export const projects = [
     imageAlt: 'Lipton'
   },
   {
-    id: 20,
+    id: 5,
     name: 'Minute Maid',
     href: '/project/Minute Maid',
     description: "Réalisation d'une campagne de pub pour Noël d'une des marques de Coca-Cola Company. Prise d'une photo pack-shot et une photo lifestyle déclinées en plusieurs supports de communication.",
@@ -320,7 +320,7 @@ export const projects = [
     imageAlt: 'Minute maid',
   },
   {
-    id: 11,
+    id: 6,
     name: 'Atelier Silanie',
     href: '/project/Atelier Silanie',
     description: "Création de l'identité visuelle de l'atelier Silanie.",
@@ -336,7 +336,7 @@ export const projects = [
     imageAlt: 'Charte graphique',
   },
   {
-    id: 6,
+    id: 7,
     name: 'Ligare',
     href: '/project/Ligare',
     description: "Livret de 12 pages format A5 pour l'exposition Ligare de Laurent Nicolas par l'association Le Fil Rouge. ",
@@ -400,7 +400,7 @@ export const projects = [
     imageAlt: 'Le Fil Rouge.',
   },
   {
-    id: 13,
+    id: 8,
     name: 'Usine Lepoutre',
     href: '/project/Usine Lepoutre',
     description: " L'ancienne filature Lepoutre située à Roubaix, a été rachetée afin dans faire en haut lieu du e-commerce. Pour accompagner sa commercialisation, réalisez un ouvrage éditorial valorisant l'histoire du bâtiment, structuré autour d'un fil chronologique. Le document doit être lisible tout en alliant histoire et contemporanéité. ",
@@ -428,7 +428,7 @@ export const projects = [
     imageAlt: 'Usine Lepoutre',
   },
   {
-    id: 21,
+    id: 9,
     name: 'Bon voyage',
     href: '/project/Bon voyage',
     description: "Cette série de photos est comme mon carnet de voyage de cet été. J’ai pu prendre des photos dans diverses villes comme Paris, Liège, Genève ou encore Lausanne. Voyager m’a permis de voir des paysages différents et de m’entraîner en photographie d'extérieur ainsi qu’en retouche photo.",
@@ -612,7 +612,7 @@ export const projects = [
     imageAlt: 'photos.',
   },
   {
-    id: 1,
+    id: 10,
     name: 'Les fous à réAction',
     href: '/project/Les fous à réAction',
     description: "Création de flyers pour la compagnie Les fous à réAction ",
@@ -640,7 +640,7 @@ export const projects = [
     imageAlt: 'Création de flyer pour la compagnie Les fous à réAction.',
   },
   {
-    id: 19,
+    id: 11,
     name: 'Oley Workshop',
     href: '/project/Oley Workshop',
     description: "Création de supports de communication pour la société Oley Workshop.",
@@ -674,7 +674,7 @@ export const projects = [
     imageAlt: 'Oley workshop',
   },
   {
-    id: 4,
+    id: 12,
     name: 'Égrappé',
     href: '/project/Égrappé',
     description: "Égrappé est un caviste lillois qui propose des sélections de vin. Voici ma proposition d'affiches, flyers, sets de table et signalétique.",
@@ -732,7 +732,7 @@ export const projects = [
     imageAlt:'Egrappe.',
   },
   {
-    id: 5,
+    id: 13,
     name: 'Linogravures',
     href: '/project/Linogravures',
     description: "Créations de linogravures.",
@@ -812,7 +812,7 @@ export const projects = [
     imageAlt: 'Illustrations',
   },
   {
-    id: 18,
+    id: 15,
     name: 'Animations web',
     href: '/project/Animations web',
     description: "Création d'illustration et items d'UI kit, pour une ferme en ligne.",
@@ -851,7 +851,7 @@ export const projects = [
     imageAlt: 'Motion'
   },
   {
-    id: 8,
+    id: 16,
     name: 'Invention du moderne',
     href: '/project/Invention du moderne',
     description: "Affiches pour l'exposition L'invention du moderne.",
@@ -879,7 +879,7 @@ export const projects = [
     imageAlt: 'Affiche typographique.',
   },
   {
-    id: 9,
+    id: 17,
     name: 'Mainsquare',
     href: '/project/Mainsquare',
     description: "Réalisation d'affiches pour le Mainsquare Festival. J'ai utilisé plusieurs techniques comme le photomontage, la gouache, les crayons de couleurs, les feutres à alcool ou encore l'illustration digitale ",
@@ -914,7 +914,7 @@ export const projects = [
     imageAlt: 'mainsquare',
   },
   {
-    id: 10,
+    id: 18,
     name: 'Numerama',
     href: '/project/Numerama',
     description: "Réalisation d'affiches pour le festival d'art numérique Numerama (projet fictif).",
@@ -936,7 +936,7 @@ export const projects = [
     imageAlt: 'Affiche Numerama',
   },
   {
-    id: 2,
+    id: 19,
     name: 'Remix graphique',
     href: '/project/Remix graphique',
     description: "Pochette de l'album Whatever People Say I Am, That’s What I’m Not du groupe Arctic Monkeys à la manière de Susan Kare. Et l'affiche du film Mary Poppins à la manière de Saul Bass. ",
@@ -970,7 +970,7 @@ export const projects = [
     imageAlt: 'AM ft. Susan Kare.',
   },
   {
-    id: 3,
+    id: 20,
     name: 'Bon & Bio',
     href: '/project/Bon & Bio',
     description: "Packaging pour le fast food écoresponsable et healthy Bon & Bio. (Projet fictif)",
@@ -1042,7 +1042,7 @@ export const projects = [
       'Packaging Bon & Bio.',
   },
   {
-    id: 7,
+    id: 21,
     name: 'Charlotte Perriand',
     href: '/project/Charlotte Perriand',
     description: "Couvertures de livres sur Charlotte Perriand.",
