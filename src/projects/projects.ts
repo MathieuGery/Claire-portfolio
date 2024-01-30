@@ -71,8 +71,8 @@ export const projects = [
   },
   {
     id: 15,
-    name: 'Ici - là-bas',
-    href: '/project/Ici - là-bas',
+    name: 'Ici & là-bas',
+    href: '/project/Ici & là-bas',
     description: " Workshop collaboratif. Le projet consiste à créer 12 affiches A0 pour l’accueil de l’ECV, accompagnées de 13 cartes A6 et de 13 cartes A11. Les trois quadriptyques mettent en avant le mot \"ICI\" avec une citation de Victor Hugo. Chaque quadriptyque s’est vu attribuer une forme et une partie du texte “Les misérables”. Le mot “ICI” sérigraphié en orange, est formé à l’aide de trames construites à partir de ces formes (rond/carré/triangle).  Un kit de correspondance a été élaboré avec des cartes A6 et des enveloppes contenant des timbres A11, inspiré des \"valeurs/notions\" de Robert M. Pirsig dans \"Traité du zen et de l'entretien des motocyclettes. Typographie : Picaflor.",
     short_description: "Design graphique",
     date: '06/01/2024',
