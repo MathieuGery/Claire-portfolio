@@ -332,7 +332,7 @@ export const projects = [
         '/atelier-silanie/AS_2.jpg',
       height: 960,
       width: 1280
-    }],
+    },],
     imageAlt: 'Charte graphique',
   },
   {
@@ -726,10 +726,8 @@ export const projects = [
         '/egrappe/papier_de_soie.jpg',
       height: 3840,
       width: 5760
-    },
-    ],
-    imageAlt:
-      'Egrappe.',
+    },],
+    imageAlt:'Egrappe.',
   },
   {
     id: 5,
@@ -762,8 +760,7 @@ export const projects = [
         '/linogravures/CAVROIS-1.jpg',
       height: 1103,
       width: 1103
-    },
-    ],
+    },],
     imageAlt: 'Linogravures.',
   },
   {
@@ -848,8 +845,7 @@ export const projects = [
         '/animations-web/poussins.gif',
       height: 800,
       width: 800
-    }
-    ],
+    },],
     imageAlt: 'Motion'
   },
   {
@@ -912,7 +908,8 @@ export const projects = [
         '/mainsquare/M4.jpg',
       height: 3456,
       width: 5184
-    }],
+    },],
+    imageAlt: 'mainsquare',
   },
   {
     id: 10,
@@ -935,9 +932,6 @@ export const projects = [
       width: 1280
     },],
     imageAlt: 'Affiche Numerama',
-  },
- ],
-    imageAlt: 'Photos',
   },
   {
     id: 2,
