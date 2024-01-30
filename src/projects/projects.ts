@@ -608,7 +608,9 @@ export const projects = [
         '/bon-voyage/P_29.jpeg',
       height: 1280,
       width: 854
-    },
+    },],
+    imageAlt: 'photos.',
+  },
   {
     id: 1,
     name: 'Les fous à réAction',
@@ -1060,6 +1062,5 @@ export const projects = [
       width: 2248
     },],
     imageAlt: 'Charlotte Perriand.',
-  },
-]
+  },]
 // More projects...
