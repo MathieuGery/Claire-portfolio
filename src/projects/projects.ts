@@ -334,7 +334,7 @@ export const projects = [
     id: 7,
     name: 'Ligare',
     href: '/project/Ligare',
-    description: "Livret de 12 pages format A5 pour l'exposition Ligare de Laurent Nicolas par l'association Le Fil Rouge. ",
+    description: "L’association Le Fil Rouge souhaite accueillir des expositions d’artistes céramistes de générations différentes et proposer dans sa programmation annuelle de la céramique utilitaire et artistique. Pour ce projet j’ai conçu un livret de 12 pages format A5 fermé. Il exprime l’idée de tradition alliée à la contemporanéité. ",
     short_description: "Édition",
     date: '20/04/2022',
     imageSrc: '/ligare/Ligare_1_1.jpg',
