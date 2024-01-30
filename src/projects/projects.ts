@@ -95,15 +95,16 @@ export const projects = [
       height: 1080,
       width: 1080
     },
+   
     {
       source:
-        '/ici-la-bas/timbre.jpeg',
+        '/ici-la-bas/ici_timbres.jpeg',
       height: 1080,
       width: 1080
     },
     {
       source:
-        '/ici-la-bas/ici_timbres.jpeg',
+        '/ici-la-bas/timbre.jpeg',
       height: 1080,
       width: 1080
     },
