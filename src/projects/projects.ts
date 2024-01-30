@@ -91,12 +91,6 @@ export const projects = [
     },
     {
       source:
-        '/ici-la-bas/A6.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
         '/ici-la-bas/serigraphie.jpeg',
       height: 1080,
       width: 1080
