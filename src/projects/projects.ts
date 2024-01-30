@@ -977,38 +977,38 @@ export const projects = [
     {
       source:
         '/bon-voyage/P_15.jpeg',
-      height: 896,
+      height: 772,
       width: 1280
     },
     {
       source:
         '/bon-voyage/P_16.jpeg',
+      height: 896,
+      width: 1280
+    },
+    {
+      source:
+        '/bon-voyage/P_17.jpeg',
       height: 1280,
       width: 849
     },
     {
       source:
-        '/bon-voyage/P_17.jpeg',
+        '/bon-voyage/P_18.jpeg',
       height: 774,
       width: 1280
     },
     {
       source:
-        '/bon-voyage/P_18.jpeg',
+        '/bon-voyage/P_19.jpeg',
       height: 1280,
       width: 999
     },
     {
       source:
-        '/bon-voyage/P_19.jpeg',
+        '/bon-voyage/P_20.jpeg',
       height: 911,
       width: 1280
-    },
-    {
-      source:
-        '/bon-voyage/P_20.jpeg',
-      height: 1280,
-      width: 853
     },
     {
       source:
@@ -1019,8 +1019,8 @@ export const projects = [
     {
       source:
         '/bon-voyage/P_22.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 853
     },
     {
       source:
