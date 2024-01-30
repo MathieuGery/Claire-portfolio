@@ -738,13 +738,20 @@ export const projects = [
     description: "Linogravures de Darumas, d'un ex-libris, de la Villa Cavrois ainsi que de New-York. J’ai repris une photographie d’un quartier de Brooklyn et je l’ai transcrite en linogravure. Cela m’a permis de faire ressortir l’aspect graphique de la rue créé par l’association et l’opposition des lignes verticales et horizontales.",
     short_description: "Linogravures",
     date: '20/09/2023',
-    imageSrc: '/linogravures/DA_1.jpg',
+    imageSrc: '/linogravures/CAVROIS-1.jpg',
     images: [{
+      source:
+        '/linogravures/DA_1.jpg',
+      height: 1440,
+      width: 1440
+    },
+    {
       source:
         '/linogravures/DA_2.jpg',
       height: 1440,
       width: 1440
-    },{
+    },
+    {
       source:
         '/linogravures/NY.jpg',
       height: 1080,
