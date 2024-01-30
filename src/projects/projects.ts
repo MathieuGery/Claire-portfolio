@@ -886,7 +886,7 @@ export const projects = [
     id: 21,
     name: 'Bon voyage',
     href: '/project/Bon voyage',
-    description: "Cette série de photos est comme mon carnet de voyage de cet été. J’ai pu prendre des photos dans diverses villes comme Paris, Liège, Bray-Dunes, Genève ou encore Lausanne. Voyager m’a permis de voir des paysages différents et de m’entraîner en photographie d'extérieur ainsi qu’en retouche photo.",
+    description: "Cette série de photos est comme mon carnet de voyage de cet été. J’ai pu prendre des photos dans diverses villes comme Paris, Liège, Genève ou encore Lausanne. Voyager m’a permis de voir des paysages différents et de m’entraîner en photographie d'extérieur ainsi qu’en retouche photo.",
     short_description: "Photographie",
     date: '20/07/2023',
     imageSrc: '/bon-voyage/P_1_1.jpeg',
