@@ -893,122 +893,122 @@ export const projects = [
     images: [{
       source:
         '/bon-voyage/P_1.jpeg',
-      height: 640,
-      width: 506
+      height: 1280,
+      width: 1012
     },
     {
       source:
         '/bon-voyage/P_2.jpeg',
-      height: 640,
-      width: 425
+      height: 1280,
+      width: 849
     },
     {
       source:
         '/bon-voyage/P_3.jpeg',
-      height: 640,
-      width: 492
+      height: 1280,
+      width: 984
     },
     {
       source:
         '/bon-voyage/P_4.jpeg',
-      height: 370,
-      width: 640
+      height: 739,
+      width: 1280
     },
     {
       source:
         '/bon-voyage/P_5.jpeg',
-      height: 640,
-      width: 480
+      height: 1280,
+      width: 960
     },
     {
       source:
         '/bon-voyage/P_6.jpeg',
-      height: 640,
-      width: 455
+      height: 1280,
+      width: 853
     },
     {
       source:
         '/bon-voyage/P_7.jpeg',
-      height: 640,
-      width: 427
+      height: 1280,
+      width: 910
     },
     {
       source:
         '/bon-voyage/P_8.jpeg',
-      height: 640,
-      width: 446
+      height: 1280,
+      width: 892
     },
     {
       source:
         '/bon-voyage/P_9.jpeg',
-      height: 640,
-      width: 356
+      height: 1280,
+      width: 871
     },
     {
       source:
         '/bon-voyage/P_10.jpeg',
-      height: 640,
-      width: 521
+      height: 1280,
+      width: 712
     },
     {
       source:
         '/bon-voyage/P_11.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 1042
     },
     {
       source:
         '/bon-voyage/P_12.jpeg',
-      height: 1080,
-      width: 1080
+      height: 853,
+      width: 1280
     },
     {
       source:
         '/bon-voyage/P_13.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 989
     },
     {
       source:
         '/bon-voyage/P_14.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 947
     },
     {
       source:
         '/bon-voyage/P_15.jpeg',
-      height: 1080,
-      width: 1080
+      height: 896,
+      width: 1280
     },
     {
       source:
         '/bon-voyage/P_16.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 849
     },
     {
       source:
         '/bon-voyage/P_17.jpeg',
-      height: 1080,
-      width: 1080
+      height: 774,
+      width: 1280
     },
     {
       source:
         '/bon-voyage/P_18.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 999
     },
     {
       source:
         '/bon-voyage/P_19.jpeg',
-      height: 1080,
-      width: 1080
+      height: 911,
+      width: 1280
     },
     {
       source:
         '/bon-voyage/P_20.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 853
     },
     {
       source:
