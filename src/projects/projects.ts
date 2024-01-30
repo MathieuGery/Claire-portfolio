@@ -1013,8 +1013,8 @@ export const projects = [
     {
       source:
         '/bon-voyage/P_21.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 853
     },
     {
       source:
@@ -1025,44 +1025,44 @@ export const projects = [
     {
       source:
         '/bon-voyage/P_23.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 905
     },
     {
       source:
         '/bon-voyage/P_24.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 853
     },
     {
       source:
         '/bon-voyage/P_25.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 825
     },
     {
       source:
         '/bon-voyage/P_26.jpeg',
-      height: 1080,
-      width: 1080
+      height: 929,
+      width: 1103
     },
     {
       source:
         '/bon-voyage/P_27.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 1011
     },
     {
       source:
         '/bon-voyage/P_28.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 853
     },
     {
       source:
         '/bon-voyage/P_29.jpeg',
-      height: 1080,
-      width: 1080
+      height: 1280,
+      width: 854
     },],
     imageAlt: 'Photos',
   },]
