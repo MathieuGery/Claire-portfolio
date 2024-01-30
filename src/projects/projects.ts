@@ -1,5 +1,417 @@
 export const projects = [
   {
+    id: 17,
+    name: 'Save the date',
+    href: '/project/Save the date',
+    description: "Pour ce projet il fallait se mettre dans la peau de la secrétaire d’un graphiste afin de créer une affiche commanditée par Le Signe,  pour la prochaine biennale internationale du graphisme de Chaumont. Malheureusement, le patron étant absent pour une durée indéterminée il ne peut réaliser cette affiche, c’est donc la secrétaire qui s’y colle avec les outils dont elle dispose ( word, excel, powerpoint, agrafeuse, papier, ciseaux, enveloppes…) elle a également accès à l’atelier de sérigraphie. Pour mon affiche j’ai décidé d’utiliser presque exclusivement du matériel qu’une secrétaire a déjà sur son bureau. J’ai formé le mot biennale à l’aide de stylos, trombones, punaises… Le\” 5e\” est créé à partir d’une épluchure de taille-crayon, de post-it et de papier perforé. J’ai utilisé la sérigraphie pour placer les dates et Le Signe, en utilisant les contraintes des petits carreaux du papier. Pour mettre mon image au format et changer sa colorimétrie j’ai utilisé powerpoint.",
+    short_description: "Édition",
+    date: '25/01/2024',
+    imageSrc: '/save-the-date/STD_affiche_2.jpeg',
+    images: [{
+      source:
+        '/save-the-date/STD_affiche_1.jpeg',
+      height: 1280,
+      width: 949
+    },
+    {
+      source:
+        '/save-the-date/STD_affiche_3.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_serigraphie.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_flyer_1.jpeg',
+      height: 876,
+      width: 1280
+    },
+    {
+      source:
+        '/save-the-date/STD_A3_1.jpeg',
+      height: 881,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_A3_2.jpeg',
+      height: 881,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_A3_3.jpeg',
+      height: 881,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_flyers_3.jpeg',
+      height: 881,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_flyer.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/save-the-date/STD_flyers_2.jpeg',
+      height: 805,
+      width: 1080
+    },],
+    imageAlt: 'Save the date',
+  },
+  {
+    id: 15,
+    name: 'Ici - là-bas',
+    href: '/project/Ici - là-bas',
+    description: " Workshop collaboratif. Le projet consiste à créer 12 affiches A0 pour l’accueil de l’ECV, accompagnées de 13 cartes A6 et de 13 cartes A11. Les trois quadriptyques mettent en avant le mot \"ICI\" avec une citation de Victor Hugo. Chaque quadriptyque s’est vu attribuer une forme et une partie du texte “Les misérables”. Le mot “ICI” sérigraphié en orange, est formé à l’aide de trames construites à partir de ces formes (rond/carré/triangle).  Un kit de correspondance a été élaboré avec des cartes A6 et des enveloppes contenant des timbres A11, inspiré des \"valeurs/notions\" de Robert M. Pirsig dans \"Traité du zen et de l'entretien des motocyclettes. Typographie : Picaflor.",
+    short_description: "Design graphique",
+    date: '06/01/2024',
+    imageSrc: '/ici-la-bas/cartes_postales.jpeg',
+    images: [{
+      source:
+        '/ici-la-bas/persister_1.jpg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/persister_2.jpeg',
+      height: 1280,
+      width: 757
+    },
+    {
+      source:
+        '/ici-la-bas/A6.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/serigraphie.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/timbre.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/ici_timbres.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/A6.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/cartes_postales.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/invitation.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/ici-la-bas/mur.jpeg',
+      height: 668,
+      width: 1280
+    },],
+    imageAlt: 'Illustrations',
+  },
+  {
+    id: 16,
+    name: 'From screen to print',
+    href: '/project/From screen to print',
+    description: "Workshop : From screen to print : Réalisation d'un objet éditorial à partir du contenu de son téléphone. Pour ce projet, j'ai choisi d'exploiter plusieurs données que j'ai accumulées dans mon téléphone. Pour le texte, je me suis approprié les SMS égarés d'inconnus qui se trompent de numéro, ainsi que les spams que je reçois quotidiennement. Les photos proviennent de ma galerie, ce sont des photos ratées, étranges ou bien que je n'ai jamais exploité jusqu'à maintenant. Pour la mise en page, j'ai reconstruit la grille qui est utilisée sur le plateau du Scrabble pour venir y placer mes éléments. Le format 12X24 reprend également l'idée du plateau du jeu qui devient un carré quand il est ouvert.",
+    short_description: "Édition",
+    date: '20/11/2023',
+    imageSrc: '/from-screen-to-print/indesirable_premier.jpg',
+    images: [{
+      source:
+        '/from-screen-to-print/indesirable_couv.jpeg',
+      height: 1280,
+      width: 1207
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_dos.jpeg',
+      height: 1280,
+      width: 1207
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_1.jpeg',
+      height: 917,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_2.jpeg',
+      height: 887,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_3.jpeg',
+      height: 928,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_4.jpeg',
+      height: 928,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_5.jpeg',
+      height: 827,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_6.jpeg',
+      height: 853,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_7.jpeg',
+      height: 917,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_8.jpeg',
+      height: 928,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_9.jpeg',
+      height: 928,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_10.jpeg',
+      height: 928,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_11.jpeg',
+      height: 1009,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_12.jpeg',
+      height: 950,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_13.jpeg',
+      height: 982,
+      width: 1280
+    },
+    {
+      source:
+        '/from-screen-to-print/indesirable_14.jpeg',
+      height: 984,
+      width: 1280
+    },],
+    imageAlt: 'From screen to print',
+  },
+  {
+    id: 12,
+    name: 'Eco-design Lipton',
+    href: '/project/Eco-design Lipton',
+    description: "Re-design d'une gamme de produits Lipton, selon la charte de l'éco-design.",
+    short_description: "Packaging",
+    date: '30/10/2023',
+    imageSrc: '/eco-design-lipton/pack.jpg',
+    images: [{
+      source:
+        '/eco-design-lipton/THE_DEVANT.jpg',
+      height: 1024,
+      width: 1280
+    },
+    {
+      source:
+        '/eco-design-lipton/THE-DOS.jpg',
+      height: 1024,
+      width: 1280
+    },
+    {
+      source:
+        '/eco-design-lipton/1.jpg',
+      height: 623,
+      width: 1280
+    }, {
+      source:
+        '/eco-design-lipton/2.jpg',
+      height: 623,
+      width: 1280
+    },
+    {
+      source:
+        '/eco-design-lipton/3.jpg',
+      height: 623,
+      width: 1280
+    }
+    ],
+    imageAlt: 'Lipton'
+  },
+  {
+    id: 20,
+    name: 'Minute Maid',
+    href: '/project/Minute Maid',
+    description: "Réalisation d'une campagne de pub pour Noël d'une des marques de Coca-Cola Company. Prise d'une photo pack-shot et une photo lifestyle déclinées en plusieurs supports de communication.",
+    short_description: "Pub photo",
+    date: '20/12/2023',
+    imageSrc: '/minute-maid/photo_1.jpeg',
+    images: [{
+      source:
+        '/minute-maid/affiche_1_1.jpeg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/minute-maid/affiche_2_2.jpeg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/minute-maid/insta_1.jpeg',
+      height: 1080,
+      width: 1080
+    },
+    {
+      source:
+        '/minute-maid/insta_2.jpeg',
+      height: 1080,
+      width: 1080
+    },],
+    imageAlt: 'Minute maid',
+  },
+  {
+    id: 6,
+    name: 'Ligare',
+    href: '/project/Ligare',
+    description: "Livret de 12 pages format A5 pour l'exposition Ligare de Laurent Nicolas par l'association Le Fil Rouge. ",
+    short_description: "Édition",
+    date: '20/04/2022',
+    imageSrc: '/ligare/Ligare_1_1.jpg',
+    images: [{
+      source:
+        '/ligare/couverture_2.jpg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/ligare/premiere_page.jpg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/ligare/page_2.jpg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/ligare/page_3.jpg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/ligare/page_4.jpg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/ligare/page_5.jpg',
+      height: 960,
+      width: 1280
+    },
+    {
+      source:
+        '/ligare/Ligare_1.jpg',
+      height: 3750,
+      width: 5000
+    },
+    {
+      source:
+        '/ligare/Ligare_2.jpg',
+      height: 3750,
+      width: 5000
+    },
+    {
+      source:
+        '/ligare/Ligare_3.jpg',
+      height: 3750,
+      width: 5000
+    },],
+    imageAlt: 'Le Fil Rouge.',
+  },
+  {
+    id: 13,
+    name: 'Usine Lepoutre',
+    href: '/project/Usine Lepoutre',
+    description: " L'ancienne filature Lepoutre située à Roubaix, a été rachetée afin dans faire en haut lieu du e-commerce. Pour accompagner sa commercialisation, réalisez un ouvrage éditorial valorisant l'histoire du bâtiment, structuré autour d'un fil chronologique. Le document doit être lisible tout en alliant histoire et contemporanéité. ",
+    short_description: "Design éditorial",
+    date: '30/10/2023',
+    imageSrc: '/usine-lepoutre/lepoutre_1.jpg',
+    images: [{
+      source:
+        '/usine-lepoutre/lepoutre_2.jpg',
+      height: 853,
+      width: 1280
+    },
+    {
+      source:
+        '/usine-lepoutre/lepoutre_3.jpg',
+      height: 853,
+      width: 1280
+    },
+    {
+      source:
+        '/usine-lepoutre/lepoutre_4.jpg',
+      height: 853,
+      width: 1280
+    },],
+    imageAlt: 'Usine Lepoutre',
+  },
+  {
     id: 1,
     name: 'Les fous à réAction',
     href: '/project/Les fous à réAction',
@@ -229,70 +641,6 @@ export const projects = [
     imageAlt: 'Linogravures.',
   },
   {
-    id: 6,
-    name: 'Ligare',
-    href: '/project/Ligare',
-    description: "Livret de 12 pages format A5 pour l'exposition Ligare de Laurent Nicolas par l'association Le Fil Rouge. ",
-    short_description: "Édition",
-    date: '20/04/2022',
-    imageSrc: '/ligare/Ligare_1_1.jpg',
-    images: [{
-      source:
-        '/ligare/couverture_2.jpg',
-      height: 960,
-      width: 1280
-    },
-    {
-      source:
-        '/ligare/premiere_page.jpg',
-      height: 960,
-      width: 1280
-    },
-    {
-      source:
-        '/ligare/page_2.jpg',
-      height: 960,
-      width: 1280
-    },
-    {
-      source:
-        '/ligare/page_3.jpg',
-      height: 960,
-      width: 1280
-    },
-    {
-      source:
-        '/ligare/page_4.jpg',
-      height: 960,
-      width: 1280
-    },
-    {
-      source:
-        '/ligare/page_5.jpg',
-      height: 960,
-      width: 1280
-    },
-    {
-      source:
-        '/ligare/Ligare_1.jpg',
-      height: 3750,
-      width: 5000
-    },
-    {
-      source:
-        '/ligare/Ligare_2.jpg',
-      height: 3750,
-      width: 5000
-    },
-    {
-      source:
-        '/ligare/Ligare_3.jpg',
-      height: 3750,
-      width: 5000
-    },],
-    imageAlt: 'Le Fil Rouge.',
-  },
-  {
     id: 7,
     name: 'Charlotte Perriand',
     href: '/project/Charlotte Perriand',
@@ -415,74 +763,6 @@ export const projects = [
     imageAlt: 'Charte graphique',
   },
   {
-    id: 12,
-    name: 'Eco-design Lipton',
-    href: '/project/Eco-design Lipton',
-    description: "Re-design d'une gamme de produits Lipton, selon la charte de l'éco-design.",
-    short_description: "Packaging",
-    date: '30/10/2023',
-    imageSrc: '/eco-design-lipton/pack.jpg',
-    images: [{
-      source:
-        '/eco-design-lipton/THE_DEVANT.jpg',
-      height: 1024,
-      width: 1280
-    },
-    {
-      source:
-        '/eco-design-lipton/THE-DOS.jpg',
-      height: 1024,
-      width: 1280
-    },
-    {
-      source:
-        '/eco-design-lipton/1.jpg',
-      height: 623,
-      width: 1280
-    }, {
-      source:
-        '/eco-design-lipton/2.jpg',
-      height: 623,
-      width: 1280
-    },
-    {
-      source:
-        '/eco-design-lipton/3.jpg',
-      height: 623,
-      width: 1280
-    }
-    ],
-    imageAlt: 'Lipton'
-  },
-  {
-    id: 13,
-    name: 'Usine Lepoutre',
-    href: '/project/Usine Lepoutre',
-    description: " L'ancienne filature Lepoutre située à Roubaix, a été rachetée afin dans faire en haut lieu du e-commerce. Pour accompagner sa commercialisation, réalisez un ouvrage éditorial valorisant l'histoire du bâtiment, structuré autour d'un fil chronologique. Le document doit être lisible tout en alliant histoire et contemporanéité. ",
-    short_description: "Design éditorial",
-    date: '30/10/2023',
-    imageSrc: '/usine-lepoutre/lepoutre_1.jpg',
-    images: [{
-      source:
-        '/usine-lepoutre/lepoutre_2.jpg',
-      height: 853,
-      width: 1280
-    },
-    {
-      source:
-        '/usine-lepoutre/lepoutre_3.jpg',
-      height: 853,
-      width: 1280
-    },
-    {
-      source:
-        '/usine-lepoutre/lepoutre_4.jpg',
-      height: 853,
-      width: 1280
-    },],
-    imageAlt: 'Usine Lepoutre',
-  },
-  {
     id: 14,
     name: 'Illustrations 2023',
     href: '/project/Illustrations 2023',
@@ -527,252 +807,6 @@ export const projects = [
       width: 1103
     },],
     imageAlt: 'Illustrations',
-  },
-  {
-    id: 15,
-    name: 'Ici - là-bas',
-    href: '/project/Ici - là-bas',
-    description: " Workshop collaboratif. Le projet consiste à créer 12 affiches A0 pour l’accueil de l’ECV, accompagnées de 13 cartes A6 et de 13 cartes A11. Les trois quadriptyques mettent en avant le mot \"ICI\" avec une citation de Victor Hugo. Chaque quadriptyque s’est vu attribuer une forme et une partie du texte “Les misérables”. Le mot “ICI” sérigraphié en orange, est formé à l’aide de trames construites à partir de ces formes (rond/carré/triangle).  Un kit de correspondance a été élaboré avec des cartes A6 et des enveloppes contenant des timbres A11, inspiré des \"valeurs/notions\" de Robert M. Pirsig dans \"Traité du zen et de l'entretien des motocyclettes. Typographie : Picaflor.",
-    short_description: "Design graphique",
-    date: '06/01/2024',
-    imageSrc: '/ici-la-bas/cartes_postales.jpeg',
-    images: [{
-      source:
-        '/ici-la-bas/persister_1.jpg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/persister_2.jpeg',
-      height: 1280,
-      width: 757
-    },
-    {
-      source:
-        '/ici-la-bas/A6.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/serigraphie.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/timbre.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/ici_timbres.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/A6.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/cartes_postales.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/invitation.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/ici-la-bas/mur.jpeg',
-      height: 668,
-      width: 1280
-    },],
-    imageAlt: 'Illustrations',
-  },
-  {
-    id: 16,
-    name: 'From screen to print',
-    href: '/project/From screen to print',
-    description: "Workshop : From screen to print : Réalisation d'un objet éditorial à partir du contenu de son téléphone. Pour ce projet, j'ai choisi d'exploiter plusieurs données que j'ai accumulées dans mon téléphone. Pour le texte, je me suis approprié les SMS égarés d'inconnus qui se trompent de numéro, ainsi que les spams que je reçois quotidiennement. Les photos proviennent de ma galerie, ce sont des photos ratées, étranges ou bien que je n'ai jamais exploité jusqu'à maintenant. Pour la mise en page, j'ai reconstruit la grille qui est utilisée sur le plateau du Scrabble pour venir y placer mes éléments. Le format 12X24 reprend également l'idée du plateau du jeu qui devient un carré quand il est ouvert.",
-    short_description: "Édition",
-    date: '20/11/2023',
-    imageSrc: '/from-screen-to-print/indesirable_premier.jpg',
-    images: [{
-      source:
-        '/from-screen-to-print/indesirable_couv.jpeg',
-      height: 1280,
-      width: 1207
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_dos.jpeg',
-      height: 1280,
-      width: 1207
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_1.jpeg',
-      height: 917,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_2.jpeg',
-      height: 887,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_3.jpeg',
-      height: 928,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_4.jpeg',
-      height: 928,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_5.jpeg',
-      height: 827,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_6.jpeg',
-      height: 853,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_7.jpeg',
-      height: 917,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_8.jpeg',
-      height: 928,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_9.jpeg',
-      height: 928,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_10.jpeg',
-      height: 928,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_11.jpeg',
-      height: 1009,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_12.jpeg',
-      height: 950,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_13.jpeg',
-      height: 982,
-      width: 1280
-    },
-    {
-      source:
-        '/from-screen-to-print/indesirable_14.jpeg',
-      height: 984,
-      width: 1280
-    },],
-    imageAlt: 'From screen to print',
-  },
-  {
-    id: 17,
-    name: 'Save the date',
-    href: '/project/Save the date',
-    description: "Pour ce projet il fallait se mettre dans la peau de la secrétaire d’un graphiste afin de créer une affiche commanditée par Le Signe,  pour la prochaine biennale internationale du graphisme de Chaumont. Malheureusement, le patron étant absent pour une durée indéterminée il ne peut réaliser cette affiche, c’est donc la secrétaire qui s’y colle avec les outils dont elle dispose ( word, excel, powerpoint, agrafeuse, papier, ciseaux, enveloppes…) elle a également accès à l’atelier de sérigraphie. Pour mon affiche j’ai décidé d’utiliser presque exclusivement du matériel qu’une secrétaire a déjà sur son bureau. J’ai formé le mot biennale à l’aide de stylos, trombones, punaises… Le\” 5e\” est créé à partir d’une épluchure de taille-crayon, de post-it et de papier perforé. J’ai utilisé la sérigraphie pour placer les dates et Le Signe, en utilisant les contraintes des petits carreaux du papier. Pour mettre mon image au format et changer sa colorimétrie j’ai utilisé powerpoint.",
-    short_description: "Édition",
-    date: '25/01/2024',
-    imageSrc: '/save-the-date/STD_affiche_2.jpeg',
-    images: [{
-      source:
-        '/save-the-date/STD_affiche_1.jpeg',
-      height: 1280,
-      width: 949
-    },
-    {
-      source:
-        '/save-the-date/STD_affiche_3.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/save-the-date/STD_serigraphie.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/save-the-date/STD_flyer_1.jpeg',
-      height: 876,
-      width: 1280
-    },
-    {
-      source:
-        '/save-the-date/STD_A3_1.jpeg',
-      height: 881,
-      width: 1080
-    },
-    {
-      source:
-        '/save-the-date/STD_A3_2.jpeg',
-      height: 881,
-      width: 1080
-    },
-    {
-      source:
-        '/save-the-date/STD_A3_3.jpeg',
-      height: 881,
-      width: 1080
-    },
-    {
-      source:
-        '/save-the-date/STD_flyers_3.jpeg',
-      height: 881,
-      width: 1080
-    },
-    {
-      source:
-        '/save-the-date/STD_flyer.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/save-the-date/STD_flyers_2.jpeg',
-      height: 805,
-      width: 1080
-    },],
-    imageAlt: 'Save the date',
   },
   {
     id: 18,
@@ -847,40 +881,6 @@ export const projects = [
       width: 1280
     },],
     imageAlt: 'Oley workshop',
-  },
-  {
-    id: 20,
-    name: 'Minute Maid',
-    href: '/project/Minute Maid',
-    description: "Réalisation d'une campagne de pub pour Noël d'une des marques de Coca-Cola Company. Prise d'une photo pack-shot et une photo lifestyle déclinées en plusieurs supports de communication.",
-    short_description: "Pub photo",
-    date: '20/12/2023',
-    imageSrc: '/minute-maid/photo_1.jpeg',
-    images: [{
-      source:
-        '/minute-maid/affiche_1_1.jpeg',
-      height: 960,
-      width: 1280
-    },
-    {
-      source:
-        '/minute-maid/affiche_2_2.jpeg',
-      height: 960,
-      width: 1280
-    },
-    {
-      source:
-        '/minute-maid/insta_1.jpeg',
-      height: 1080,
-      width: 1080
-    },
-    {
-      source:
-        '/minute-maid/insta_2.jpeg',
-      height: 1080,
-      width: 1080
-    },],
-    imageAlt: 'Minute maid',
   },
   {
     id: 21,
