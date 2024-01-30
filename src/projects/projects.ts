@@ -4,7 +4,7 @@ export const projects = [
     name: 'Save the date',
     href: '/project/Save the date',
     description: "Pour ce projet il fallait se mettre dans la peau de la secrétaire d’un graphiste afin de créer une affiche commanditée par Le Signe,  pour la prochaine biennale internationale du graphisme de Chaumont. Malheureusement, le patron étant absent pour une durée indéterminée il ne peut réaliser cette affiche, c’est donc la secrétaire qui s’y colle avec les outils dont elle dispose (word, excel, powerpoint, agrafeuse, papier, ciseaux, enveloppes…) elle a également accès à l’atelier de sérigraphie. Pour mon affiche j’ai décidé d’utiliser presque exclusivement du matériel qu’une secrétaire a déjà sur son bureau. J’ai formé le mot biennale à l’aide de stylos, trombones, punaises… Le\” 5e\” est créé à partir d’une épluchure de taille-crayon, de post-it et de papier perforé. J’ai utilisé la sérigraphie pour placer les dates et Le Signe, en utilisant les contraintes des petits carreaux du papier. Pour mettre mon image au format et changer sa colorimétrie j’ai utilisé powerpoint.",
-    short_description: "Édition",
+    short_description: "Affiche",
     date: '25/01/2024',
     imageSrc: '/save-the-date/STD_affiche_2.jpeg',
     images: [{
