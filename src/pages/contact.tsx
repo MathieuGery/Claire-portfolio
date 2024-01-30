@@ -41,7 +41,7 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>Claire's portfolio</title>
+        <title>Claire Gery Graphiste</title>
         <meta name="description" content="Claire's portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
