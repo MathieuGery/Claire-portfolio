@@ -758,6 +758,12 @@ export const projects = [
     },
     {
       source:
+        '/linogravures/CAVROIS-1.jpg',
+      height: 1440,
+      width: 1440
+    },
+    {
+      source:
         '/linogravures/exlibris.jpeg',
       height: 1080,
       width: 1080
