@@ -284,7 +284,7 @@ export const projects = [
     id: 5,
     name: 'Minute Maid',
     href: '/project/Minute Maid',
-    description: "Réalisation d'une campagne de pub pour Noël d'une des marques de Coca-Cola Company. Prise d'une photo pack-shot et une photo lifestyle déclinées en plusieurs supports de communication.",
+    description: "Réalisation d'une campagne de pub pour Noël d'une des marques de Coca-Cola Company. Prise d'une photo pack-shot et une photo lifestyle déclinées en plusieurs supports de communication. Ce travail a été réalisé en collaboration avec Joséphine Jagodzinski et Tanguy Pinczon du sel.",
     short_description: "Pub photo",
     date: '20/12/2023',
     imageSrc: '/minute-maid/photo_1.jpeg',
