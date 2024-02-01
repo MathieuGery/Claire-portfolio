@@ -15,6 +15,12 @@ export const projects = [
     },
     {
       source:
+        '/save-the-date/A_1.jpeg',
+      height: 1280,
+      width: 946
+    },
+    {
+      source:
         '/save-the-date/STD_affiche_3.jpeg',
       height: 1080,
       width: 1080
