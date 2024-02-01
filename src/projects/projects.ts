@@ -9,12 +9,6 @@ export const projects = [
     imageSrc: '/save-the-date/STD_affiche_2.jpeg',
     images: [{
       source:
-        '/save-the-date/STD_affiche_1.jpeg',
-      height: 1280,
-      width: 949
-    },
-    {
-      source:
         '/save-the-date/A_1.jpeg',
       height: 1280,
       width: 946
