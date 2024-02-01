@@ -302,15 +302,15 @@ export const projects = [
     },
     {
       source:
-        '/minute-maid/insta_1.jpeg',
-      height: 1080,
-      width: 1080
+        '/minute-maid/affiche_2_1.jpeg',
+      height: 1280,
+      width: 853
     },
     {
       source:
-        '/minute-maid/insta_2.jpeg',
-      height: 1080,
-      width: 1080
+        '/minute-maid/affiche_lifestyle_1.jpeg',
+      height: 1280,
+      width: 853
     },],
     imageAlt: 'Minute maid',
   },
