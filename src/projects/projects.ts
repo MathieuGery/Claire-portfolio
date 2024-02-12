@@ -359,13 +359,6 @@ export const projects = [
         '/submarine-times/D_3.jpeg',
       height: 1280,
       width: 1280
-    },
-    
-    {
-      source:
-        '/submarine-times/D_6.jpeg',
-      height: 1280,
-      width: 1280
     },],
     imageAlt: 'typographie',
   },
