@@ -318,7 +318,7 @@ export const projects = [
     id: 21,
     name: 'Submarine Times',
     href: '/project/Submarine Times',
-    description: "Cette typographie a été créée sur le thème de la rencontre. J’ai choisi de faire rencontrer deux époques bien différentes, et pour ce faire, j’ai choisi deux films qui les représentent bien. Le premier film est le film d’animation Yellow Submarine sorti en 1968, il marque son époque grâce à son esthétique psychédélique et colorée. J’en ai dégagé des formes rondes et des arabesques. Je l’ai mêlé au film Les Temps modernes de Charlie Chaplin sorti en 1936, dans lequel des formes crantées sont au cœur du film grâce aux rouages des machines. J’ai fait se rencontrer les éléments de chacun des films pour créer cette typographie. ",
+    description: "Cette typographie unicase a été créée sur le thème de la rencontre. J’ai choisi de faire rencontrer deux époques bien différentes, et pour ce faire, j’ai choisi deux films qui les représentent bien. Le premier film est le film d’animation Yellow Submarine sorti en 1968, il marque son époque grâce à son esthétique psychédélique et colorée. J’en ai dégagé des formes rondes et des arabesques. Je l’ai mêlé au film Les Temps modernes de Charlie Chaplin sorti en 1936, dans lequel des formes crantées sont au cœur du film grâce aux rouages des machines. J’ai fait se rencontrer les éléments de chacun des films pour créer cette typographie. ",
     short_description: "Typographie",
     date: '10/02/2024',
     imageSrc: '/submarine-times/type_1.jpeg',
