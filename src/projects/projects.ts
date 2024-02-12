@@ -330,6 +330,12 @@ export const projects = [
     },
     {
       source:
+        '/submarine-times/calques.jpeg',
+      height: 1280,
+      width: 1280
+    },
+    {
+      source:
         '/submarine-times/type_2.jpeg',
       height: 1280,
       width: 905
