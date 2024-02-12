@@ -337,26 +337,26 @@ export const projects = [
     {
       source:
         '/submarine-times/type_4.jpeg',
-      height: 905,
-      width: 1280
+      height: 1280,
+      width: 905
     },
     {
       source:
         '/submarine-times/type_5.jpeg',
-      height: 905,
-      width: 1280
+      height: 1280,
+      width: 905
     },
     {
       source:
         '/submarine-times/type_6.jpeg',
-      height: 905,
-      width: 1280
+      height: 1280,
+      width: 905
     },
     {
       source:
         '/submarine-times/type_7.jpeg',
-      height: 905,
-      width: 1280
+      height: 1280,
+      width: 905
     },],
     imageAlt: 'typographie',
   },
