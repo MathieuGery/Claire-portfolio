@@ -336,7 +336,7 @@ export const projects = [
     },
     {
       source:
-        '/submarine-times/type_7.jpeg',
+        '/submarine-times/type_6.jpeg',
       height: 1280,
       width: 905
     },
@@ -348,7 +348,7 @@ export const projects = [
     },
     {
       source:
-        '/submarine-times/type_6.jpeg',
+        '/submarine-times/type_7.jpeg',
       height: 1280,
       width: 905
     },
