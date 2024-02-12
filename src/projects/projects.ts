@@ -325,7 +325,7 @@ export const projects = [
     images: [{
       source:
         '/submarine-times/D_16.jpeg',
-      height: 1237,
+      height: 1280,
       width: 1280
     },
    
@@ -346,7 +346,7 @@ export const projects = [
       source:
         '/submarine-times/D_17.jpeg',
       height: 1280,
-      width: 905
+      width: 1280
     },
     {
       source:
