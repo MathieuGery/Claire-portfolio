@@ -318,7 +318,7 @@ export const projects = [
     id: 21,
     name: 'Submarine Times',
     href: '/project/Submarine Times',
-    description: "Réalisation d'une campagne de pub pour Noël d'une des marques de Coca-Cola Company. Prise d'une photo pack-shot et une photo lifestyle déclinées en plusieurs supports de communication. Ce travail a été réalisé en collaboration avec Joséphine Jagodzinski et Tanguy Pinczon du sel.",
+    description: " ",
     short_description: "Typographie",
     date: '10/02/2024',
     imageSrc: '/submarine-times/type_1.jpeg',
