@@ -315,6 +315,52 @@ export const projects = [
     imageAlt: 'Minute maid',
   },
   {
+    id: 21,
+    name: 'Submarine Times',
+    href: '/project/Submarine Times',
+    description: "Réalisation d'une campagne de pub pour Noël d'une des marques de Coca-Cola Company. Prise d'une photo pack-shot et une photo lifestyle déclinées en plusieurs supports de communication. Ce travail a été réalisé en collaboration avec Joséphine Jagodzinski et Tanguy Pinczon du sel.",
+    short_description: "Typographie",
+    date: '10/02/2024',
+    imageSrc: '/submarine-times/type_1.jpeg',
+    images: [{
+      source:
+        '/submarine-times/type_2.jpeg',
+      height: 1280,
+      width: 905
+    },
+    {
+      source:
+        '/submarine-times/type_3.jpeg',
+      height: 1280,
+      width: 905
+    },
+    {
+      source:
+        '/submarine-times/type_4.jpeg',
+      height: 905,
+      width: 1280
+    },
+    {
+      source:
+        '/submarine-times/type_5.jpeg',
+      height: 905,
+      width: 1280
+    },
+    {
+      source:
+        '/submarine-times/type_6.jpeg',
+      height: 905,
+      width: 1280
+    },
+    {
+      source:
+        '/submarine-times/type_7.jpeg',
+      height: 905,
+      width: 1280
+    },],
+    imageAlt: 'typographie',
+  },
+  {
     id: 6,
     name: 'Atelier Silanie',
     href: '/project/Atelier Silanie',
