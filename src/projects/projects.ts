@@ -340,6 +340,7 @@ export const projects = [
       height: 1280,
       width: 1280
     },
+   
     {
       source:
         '/submarine-times/D_2.jpeg',
