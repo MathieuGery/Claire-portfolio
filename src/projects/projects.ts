@@ -368,12 +368,12 @@ export const projects = [
     description: "Création de l'identité visuelle de l'atelier Silanie.",
     short_description: "Logo",
     date: '26/07/2022',
-    imageSrc: '/atelier-silanie/silanie_1_1.jpg',
+    imageSrc: '/atelier-silanie/logo-05.jpeg',
     images: [{
       source:
-        '/atelier-silanie/AS_2.jpg',
-      height: 960,
-      width: 1280
+        '/atelier-silanie/logo-04.jpeg',
+      height: 1181,
+      width: 1181
     },
     {
       source:
