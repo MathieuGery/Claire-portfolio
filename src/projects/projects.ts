@@ -374,6 +374,24 @@ export const projects = [
         '/atelier-silanie/AS_2.jpg',
       height: 960,
       width: 1280
+    },
+    {
+      source:
+        '/atelier-silanie/logo-01.jpeg',
+      height: 1181,
+      width: 1181
+    },
+    {
+      source:
+        '/atelier-silanie/logo-02.jpeg',
+      height: 1181,
+      width: 1181
+    },
+    {
+      source:
+        '/atelier-silanie/logo-03.jpeg',
+      height: 1181,
+      width: 1181
     },],
     imageAlt: 'Charte graphique',
   },
