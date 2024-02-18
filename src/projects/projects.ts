@@ -884,6 +884,43 @@ export const projects = [
     imageAlt: 'Illustrations',
   },
   {
+    id: 21,
+    name: 'Clip musical',
+    href: '/project/Clip musical',
+    description: "Création d'un clip musical sur la musique Left Me Like Summer de Daily J.'.",
+    short_description: "Motion",
+    date: '01/02/2023',
+    imageSrc: '/atelier-silanie/logo-05.jpeg',
+    images: [{
+      source:
+        '/atelier-silanie/logo-04.jpeg',
+      height: 1181,
+      width: 1181
+    },
+    {
+      source:
+        '/atelier-silanie/logo-01.jpeg',
+      height: 1181,
+      width: 1181
+    },
+    {
+      source:
+        '/atelier-silanie/logo-02.jpeg',
+      height: 1181,
+      width: 1181
+    },
+    {
+      source:
+        '/atelier-silanie/logo-03.jpeg',
+      height: 1181,
+      width: 1181
+    },],
+    imageAlt: 'Charte graphique',
+    videos: [{
+      ytid: '-FGWQFEUdgs',
+    }],
+  },
+  {
     id: 15,
     name: 'Animations web',
     href: '/project/Animations web',
@@ -1111,27 +1148,5 @@ export const projects = [
 
     imageAlt:
       'Packaging Bon & Bio.',
-  },
-  {
-    id: 21,
-    name: 'Charlotte Perriand',
-    href: '/project/Charlotte Perriand',
-    description: "Couvertures de livres sur Charlotte Perriand.",
-    short_description: "Édition",
-    date: '20/12/2021',
-    imageSrc: '/charlotte-perriand/CP_5.jpg',
-    images: [{
-      source:
-        '/charlotte-perriand/CP_2.jpg',
-      height: 1926,
-      width: 2248
-    },
-    {
-      source:
-        '/charlotte-perriand/CP_3.jpg',
-      height: 1926,
-      width: 2248
-    },],
-    imageAlt: 'Charlotte Perriand.',
   },]
 // More projects...
