@@ -1,21 +1,68 @@
-import YouTube from 'react-youtube'
+import React, { useState, useEffect, useCallback, useRef } from "react";
 
-export default function ({videoId}: {videoId: string}) {
-  const onReady = (event: any) => {
-    // Access the player instance
-    const player = event.target
-  }
+interface IProps {
+  videoId: string;
+  autoPlay?: boolean;
+  title: string;
+}
 
-  const onError = (error: any) => {
-    console.error('YouTube Player Error:', error)
-  }
+const YoutubePlayer: React.FC<IProps> = (props) => {
+  const { videoId, autoPlay, title } = props;
+  const videoURL = `https://www.youtube.com/embed/${videoId}${
+    autoPlay ? "?autoplay=1" : ""
+  }`;
+  const iframeRef = useRef<HTMLIFrameElement>(null);
+  const defaultHeight = 495;
+  const [videoHeight, setVideoHeight] = useState<number>(
+    iframeRef.current ? iframeRef.current.offsetWidth * 0.5625 : defaultHeight
+  );
+
+  const handleChangeVideoWidth = useCallback(() => {
+    const ratio =
+      window.innerWidth > 990
+        ? 1.0
+        : window.innerWidth > 522
+          ? 1.2
+          : window.innerWidth > 400
+            ? 1.45
+            : 1.85;
+    const height = iframeRef.current
+      ? iframeRef.current.offsetWidth * 0.5625
+      : defaultHeight;
+    return setVideoHeight(Math.floor(height * ratio));
+  }, []);
+
+  useEffect(() => {
+    window.addEventListener("resize", handleChangeVideoWidth);
+    const ratio =
+      window.innerWidth > 990
+        ? 1.0
+        : window.innerWidth > 522
+          ? 1.2
+          : window.innerWidth > 400
+            ? 1.45
+            : 1.85;
+    const height = iframeRef.current
+      ? iframeRef.current.offsetWidth * 0.5625
+      : defaultHeight;
+    setVideoHeight(Math.floor(height * ratio));
+    return function cleanup() {
+      window.removeEventListener("resize", handleChangeVideoWidth);
+    };
+  }, [videoHeight, handleChangeVideoWidth]);
 
   return (
-    <YouTube
-      className="sm:overflow-x-auto"
-      videoId={videoId}
-      onReady={onReady}
-      onError={onError}
+    <iframe
+      ref={iframeRef}
+      title={title}
+      width="100%"
+      height={`${videoHeight}px`}
+      src={videoURL}
+      frameBorder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowFullScreen
     />
-  )
-}
+  );
+};
+
+export default YoutubePlayer;
