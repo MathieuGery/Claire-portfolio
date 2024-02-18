@@ -41,7 +41,7 @@ export default function ProjectDetails(props: any) {
         <PhotoGallery images={props.project.images}/>
       </div>
       {props.project.videos &&
-          <div className="mt-5 mx-12 flex items-center justify-center">
+          <div className="mt-5 mx-12 items-center justify-center grid grid-cols-1 gap-y-10">
             {props.project.videos.map((id: { ytid: string }) => (
               <YoutubePlayer videoId={id.ytid} title='video'/>
             ))}
