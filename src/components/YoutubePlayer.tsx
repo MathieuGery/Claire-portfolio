@@ -12,6 +12,7 @@ export default function ({videoId}: {videoId: string}) {
 
   return (
     <YouTube
+      className="sm:overflow-x-auto"
       videoId={videoId}
       onReady={onReady}
       onError={onError}
