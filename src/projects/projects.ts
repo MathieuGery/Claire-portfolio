@@ -95,7 +95,7 @@ export const projects = [
       height: 1080,
       width: 1080
     },
-   
+
     {
       source:
         '/ici-la-bas/ici_timbres.jpeg',

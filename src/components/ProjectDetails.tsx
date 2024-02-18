@@ -1,5 +1,6 @@
-import Image from "next/image"
-import PhotoGallery from "./PhotoGallery"
+import Image from 'next/image'
+import PhotoGallery from './PhotoGallery'
+import YoutubePlayer from '@/components/YoutubePlayer'
 
 export default function ProjectDetails(props: any) {
   return (
@@ -8,7 +9,8 @@ export default function ProjectDetails(props: any) {
         <div className="mx-auto max-w-7xl px-6 lg:flex lg:items-center lg:gap-x-10 lg:px-8">
           <div className="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
             <div className="flex">
-              <div className="relative flex items-center gap-x-4 rounded-full py-1 px-4 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
+              <div
+                className="relative flex items-center gap-x-4 rounded-full py-1 px-4 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                 <span className="font-semibold text-indigo-600">{props.project.date}</span>
               </div>
             </div>
@@ -20,7 +22,7 @@ export default function ProjectDetails(props: any) {
             </p>
           </div>
           <div className="mt-16 sm:mt-24 lg:mt-0 lg:flex-shrink-0 lg:flex-grow flex items-center justify-center">
-            <Image src={props.project.imageSrc} width={500} height={500} alt="" className="rounded-xl" />
+            <Image src={props.project.imageSrc} width={500} height={500} alt="" className="rounded-xl"/>
           </div>
         </div>
       </div>
@@ -36,7 +38,12 @@ export default function ProjectDetails(props: any) {
         </ul>
       </div> */}
       <div className="mt-20 mx-12">
-        <PhotoGallery images={props.project.images} />
+        <PhotoGallery images={props.project.images}/>
+      </div>
+      <div className="mt-5 mx-12 grid grid-cols-1 lg:grid-cols-2 gap-y-5 items-center justify-center">
+        {props.project.videos.map((id: { ytid: string }) => (
+          <YoutubePlayer videoId={id.ytid}/>
+        ))}
       </div>
     </div>
   )
