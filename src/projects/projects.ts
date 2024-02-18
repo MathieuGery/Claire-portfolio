@@ -890,32 +890,14 @@ export const projects = [
     description: "Création d'un clip musical sur la musique Left Me Like Summer de Daily J.'.",
     short_description: "Motion",
     date: '01/02/2023',
-    imageSrc: '/atelier-silanie/logo-05.jpeg',
+    imageSrc: '/clip/photo_clip.jpeg',
     images: [{
       source:
-        '/atelier-silanie/logo-04.jpeg',
-      height: 1181,
-      width: 1181
-    },
-    {
-      source:
-        '/atelier-silanie/logo-01.jpeg',
-      height: 1181,
-      width: 1181
-    },
-    {
-      source:
-        '/atelier-silanie/logo-02.jpeg',
-      height: 1181,
-      width: 1181
-    },
-    {
-      source:
-        '/atelier-silanie/logo-03.jpeg',
-      height: 1181,
-      width: 1181
+        '/clip/Clip_storyboard.jpeg',
+      height: 905,
+      width: 1280
     },],
-    imageAlt: 'Charte graphique',
+    imageAlt: 'Clip',
     videos: [{
       ytid: '-FGWQFEUdgs',
     }],
