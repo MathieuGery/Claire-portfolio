@@ -358,7 +358,7 @@ export const projects = [
       height: 1280,
       width: 1280
     },
-   ],
+    ],
     imageAlt: 'typographie',
   },
   {
@@ -789,7 +789,7 @@ export const projects = [
       height: 3840,
       width: 5760
     },],
-    imageAlt:'Egrappe.',
+    imageAlt: 'Egrappe.',
   },
   {
     id: 13,
@@ -900,7 +900,7 @@ export const projects = [
     imageAlt: 'Clip',
     videos: [{
       ytid: '-FGWQFEUdgs',
-    }],
+    },],
   },
   {
     id: 15,
@@ -940,6 +940,29 @@ export const projects = [
       width: 800
     },],
     imageAlt: 'Motion'
+  },
+  {
+    id: 22,
+    name: 'Les quatre saisons',
+    href: '/project/Les quatre saisons',
+    description: "Illustrations animées des quatre saisons",
+    short_description: "Motion",
+    date: '10/03/2022',
+    imageSrc: '/clip/photo_clip.jpeg',
+    images: [],
+    imageAlt: 'Clip',
+    videos: [{
+      ytid: 'sITuh-zIWbw',
+    },
+    {
+      ytid: '1kcWzofTbBM',
+    },
+    {
+      ytid: 'th6k9EX2vPg',
+    },
+    {
+      ytid: 'c1yRkQQGehU',
+    },],
   },
   {
     id: 16,
