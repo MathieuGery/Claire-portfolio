@@ -40,11 +40,13 @@ export default function ProjectDetails(props: any) {
       <div className="mt-20 mx-12">
         <PhotoGallery images={props.project.images}/>
       </div>
-      <div className="mt-5 mx-12 grid grid-cols-1 lg:grid-cols-2 gap-y-5 items-center justify-center">
-        {props.project.videos.map((id: { ytid: string }) => (
-          <YoutubePlayer videoId={id.ytid}/>
-        ))}
-      </div>
+      {props.project.videos &&
+          <div className="mt-5 mx-12 grid grid-cols-1 lg:grid-cols-2 gap-y-5 items-center justify-center">
+            {props.project.videos.map((id: { ytid: string }) => (
+              <YoutubePlayer videoId={id.ytid}/>
+            ))}
+          </div>
+      }
     </div>
   )
 }
