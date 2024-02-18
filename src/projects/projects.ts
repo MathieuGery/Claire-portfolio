@@ -887,7 +887,7 @@ export const projects = [
     id: 21,
     name: 'Clip musical',
     href: '/project/Clip musical',
-    description: "Création d'un clip musical sur la musique Left Me Like Summer de Daily J.'.",
+    description: "Création d'un clip musical sur la musique Left Me Like Summer de Daily J.",
     short_description: "Motion",
     date: '01/02/2023',
     imageSrc: '/clip/photo_clip.jpeg',
