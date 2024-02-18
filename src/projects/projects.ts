@@ -948,7 +948,7 @@ export const projects = [
     description: "Illustrations animées des quatre saisons",
     short_description: "Motion",
     date: '10/03/2022',
-    imageSrc: '/clip/photo_clip.jpeg',
+    imageSrc: '/animations-web/carre.jpeg',
     images: [],
     imageAlt: 'Clip',
     videos: [{
